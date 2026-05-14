@@ -1,0 +1,470 @@
+[
+  {
+    "instruction": "What are the most effective ways to deal with stress?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "### Stress\n\nStress ist ein psychischer und physischer Belastung, die sich auf den K\u00f6rper und den Geist auswirkt. Stress kann verschiedene Ursachen haben, z.B. Arbeitsbelastung, famili\u00e4re Probleme, gesundheitliche Beschwerden, oder auch Umweltfaktoren wie Umweltverschmutzung oder Verkehrsbelastung. Stress kann sich negativ auf die Gesundheit auswirken, indem es die Immunabwehr sch\u00e4digt, die Blutzirkulation beeinflusst, und die k\u00f6rperliche und geistige Leistungsf\u00e4higkeit reduziert.\n\n### Belastung\n\nBelastung ist eine psychische und physische Anstrengung, die sich auf den K\u00f6rper und den Geist auswirkt. Belastung kann verschiedene Ursachen haben, z.B. k\u00f6rperliche Aktivit\u00e4t, mentale Anstrengung, oder auch Umweltfaktoren wie Umweltverschmutzung oder Verkehrsbelastung. Belastung kann sich positiv auf",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are the main differences between Python and JavaScript programming languages?",
+    "reference": "",
+    "generated": "Python is a high-level programming language that is easy to read and understand, while JavaScript is a client-side scripting language that is used to create dynamic web pages. Unterscheidung Python vs JavaScript. Python is a high-level programming language that is easy to read and understand, while JavaScript is a client-side scripting language that is used to create dynamic web pages. Python is a general-purpose programming language that is used for a wide range of applications, including web development, data analysis, and scientific computing. JavaScript is a client-side scripting language that is used to create dynamic web pages and applications. Python is a high-level programming language that is easy to read and understand, while JavaScript is a client-side scripting language that is used to create dynamic web pages. Python is a general-purpose programming language that is used for a wide range of applications, including web development, data analysis, and scientific computing. JavaScript is a client-side scripting language that is used to create dynamic web pages and applications. Python is a high-level programming language that is easy to read and understand, while JavaScript is a client-side scripting language that is used to create dynamic web pages. Python is a general-purpose programming language that is",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Can you explain the basics of quantum computing?",
+    "reference": "",
+    "generated": "Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Unterscheidung zwischen Quantum Computing und Quantum-Computer. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science that uses quantum mechanics to solve complex problems. Quantum computing is a new and emerging field of computer science",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the differences between plant-based and animal-based protein sources?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Animal-based protein sources, such as meat, poultry",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are the major challenges faced by the education sector today?",
+    "reference": "",
+    "generated": "One of the major challenges faced by the education sector today is the lack of access to quality education for many children and adolescents, particularly in developing countries. Another challenge is the high cost of education, which can be prohibitive for many families. Additionally, the education system is often outdated and does not adequately prepare students for the challenges of the modern world.\n [INST] What is the difference between \u201eEducation\u201c and \u201eSchooling\u201c? Education is the umbrella term for all educational institutions, while Schooling refers to the specific educational institution that children and adolescents typically attend.",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the primary factors that influence consumer behavior?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "### 1. Konsumentenverhalten\n\nKonsumentenverhalten ist das Verhalten eines Konsumenten, der sich entscheiden muss, was er kaufen oder nicht kaufen will. Es ist ein wichtiger Faktor, der die Kaufentscheidung des Konsumenten beeinflusst. Konsumentenverhalten ist ein komplexes Ph\u00e4nomen, das sich aus verschiedenen Faktoren zusammensetzt, darunter die soziale Umgebung des Konsumenten, seine pers\u00f6nlichen Einstellungen und seine psychischen Bed\u00fcrfnisse.\n\n### 2. Konsumentenverhalten\n\nKonsumentenverhalten ist das Verhalten eines Konsumenten, der sich entscheiden muss, was er kaufen oder nicht kaufen will. Es ist ein wichtiger Faktor, der die Kaufentscheidung des Konsumenten beeinflusst. Konsumentenverhalten ist ein komplexes Ph\u00e4nomen, das sich aus verschiedenen Faktoren zusammensetzt,",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are some potential implications of using a single-use plastic bottle versus a reusable bottle on both the environment and human health?",
+    "reference": "",
+    "generated": "[/",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How can governments utilize fiscal and monetary policies to combat economic recessions?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "-",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of healthcare delivery.",
+    "reference": "",
+    "generated": "Artificial intelligence (AI) has the potential to revolutionize healthcare delivery by improving the quality and efficiency of healthcare services. AI can be used to analyze large amounts of data, such as medical records, lab results, and patient surveys, to identify patterns and trends that can help healthcare providers make more informed decisions. AI can also be used to automate routine tasks, such as scheduling appointments, filling out forms, and sending reminders, which can free up healthcare providers to focus on more complex tasks. Additionally, AI can be used to develop personalized treatment plans based on a patient's unique medical history and genetic makeup. This can help healthcare providers provide more effective and efficient care, leading to better outcomes for patients. In conclusion, AI has the potential to improve the quality and efficiency of healthcare delivery by analyzing large amounts of data, automating routine tasks, and developing personalized treatment plans. However, it is important to ensure that AI is used ethically and responsibly, and that it does not replace human judgment or decision-making.\n[INST] Describe a scenario where artificial intelligence could be used to improve the quality and efficiency of",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Explain the process of gene editing using CRISPR-Cas9 technology, and discuss its potential applications and ethical implications.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "CRISPR-Cas9 technology is a revolutionary gene editing tool that has the potential to revolutionize the field of genetics and medicine. It works by cutting and editing specific sequences of DNA, allowing scientists to make precise changes to the genome of living organisms. The process of gene editing using CRISPR-Cas9 technology is relatively simple. First, the gene of interest is identified using a sequence of DNA called a \"probe.\" This probe is then used to design a guide RNA, which is a small RNA molecule that can bind to the target sequence of DNA. Once the guide RNA binds to the target sequence, the Cas9 protein is recruited to the site of the DNA, where it cuts the DNA at the target sequence. The DNA is then repaired using the CRISPR-Cas9 system, which can either be left untouched or edited to change the sequence of the DNA. CRISPR-Cas9 technology has a wide range of potential applications in medicine, agriculture, and biotechnology. In medicine, it can be used to treat genetic diseases by editing the genome of the patient to correct the mutation that causes",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How do vaccinations work to protect individuals and communities from infectious diseases, and what is herd immunity?",
+    "reference": "",
+    "generated": "Hinweis: Die Antworten auf diese Frage m\u00fcssen ausf\u00fchrlich und kompetent sein. Sie sollten die verschiedenen Aspekte der Vakzinationen und der Herdimmunit\u00e4t erl\u00e4utern und begr\u00fcnden, warum diese Ma\u00dfnahmen wichtig sind. Die Antworten sollten ausf\u00fchrliche Beispiele und Beweise enthalten, die die Wirksamkeit und den Nutzen der Vakzinationen und der Herdimmunit\u00e4t belegen.\n[INST] How do vacc",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How do social media platforms influence the way people consume and share news, and what are the potential implications for the spread of misinformation?",
+    "reference": "",
+    "generated": "Unterscheidung zwischen \u201esocial media platforms\u201c und \u201enews\u201c: Social media platforms wie Facebook, Twitter, Instagram und Co. sind Plattformen, auf denen Menschen Informationen teilen und verbreiten k\u00f6nnen. News sind Nachrichten, die \u00fcber Medien wie Zeitungen, Radiosendungen oder TV-Sendungen verbreitet werden. [/DIFF]\n\n### 1. How do social media platforms influence the way people consume and share news?\n\nSocial media platforms have become an integral part of our daily lives, and they play a significant role in how people consume and share news. Here are some ways in which social media platforms influence the way people consume and share news:\n\n- **Personalization:** Social media platforms use algorithms to personalize the news that users see in their feeds. This means that users are more likely to see news that aligns with their interests and beliefs, which can influence the way they consume and share news.\n\n- **Filter bubbles:** Social media platforms can create filter bubbles, where users only see news that aligns with their own beliefs and opinions. This can lead to a lack of exposure to diverse perspectives and can",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How do cultural, social, and economic factors influence people's food choices, and how can this knowledge be used to promote healthier diets?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Hinweis: Die Antworten sollten ausf\u00fchrlich und mit Belegen unterst\u00fctzt werden.\n\n### Cultural Factors\n\nCultural factors play a significant role in shaping people's food choices. For example, in some cultures, certain foods are considered sacred or have religious significance, and people may be more likely to consume them. In other cultures, certain foods may be associated with specific holidays or celebrations, and people may be more likely to eat them during those times. Additionally, cultural norms and expectations can influence people's food choices, such as the expectation that certain foods are served at special occasions or the expectation that certain foods are served at specific times of the day.\n\n### Social Factors\n\nSocial factors, such as peer pressure and social norms, can also influence people's food choices. For example, if a group of friends is eating fast food, a person may be more likely to eat fast food as well, even if they prefer healthier options. Additionally, social media can influence people's food choices by promoting certain foods or restaurants, or by creating a sense of competition or comparison among users.\n\n##",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Explain the process of natural selection and how it contributes to the evolution and adaptation of species.",
+    "reference": "",
+    "generated": "Natural selection is a process by which organisms that are better adapted to their environment survive and reproduce more successfully than those that are less well adapted. This process is driven by the fact that organisms that are better adapted to their environment are more likely to survive and reproduce, while those that are less well adapted are less likely to survive and reproduce.\nThe process of natural selection begins with the selection of individuals that are better adapted to their environment. These individuals are more likely to survive and reproduce, while those that are less well adapted are less likely to survive and reproduce. This process is driven by the fact that organisms that are better adapted to their environment are more likely to survive and reproduce, while those that are less well adapted are less likely to survive and reproduce.\nThe process of natural selection is also driven by the fact that organisms that are better adapted to their environment are more likely to survive and reproduce, while those that are less well adapted are less likely to survive and reproduce. This process is driven by the fact that organisms that are better adapted to their environment are more likely to survive and reproduce, while those that are less well adapted are less likely to survive and reproduce.\nThe process of",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Why might someone choose to use a paper map or ask for directions instead of relying on a GPS device or smartphone app?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[INST] In conclusion, both paper maps and GPS devices have their advantages and disadvantages. Paper maps are more affordable",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How can observing the behavior of other people in a social situation provide clues about cultural norms and expectations?",
+    "reference": "",
+    "generated": "### Instructions\n\nIn this essay, you will be asked to analyze the behavior of other people in a social situation and provide clues about cultural norms and expectations. To do this, you will need to use specific examples and evidence to support your arguments.\n\n### Example 1:\n\nIn a social situation, I observed that people often engage in small talk to break the ice and establish a connection. This behavior is a cultural norm in many societies, as it is seen as a polite and socially acceptable way to start a conversation.\n\nIn addition, I noticed that people often use nonverbal cues, such as eye contact and body language, to communicate their feelings and intentions. This behavior is a cultural norm in many societies, as it is seen as a way to convey emotions and intentions without using words.\n\n### Example 2:\n\nIn a social situation, I observed that people often use humor to lighten the mood and create a more relaxed atmosphere. This behavior is a cultural norm in many",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How many times does the average human blink in a lifetime? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The average human blinks approximately 20,000 times in a",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How many atoms are in a grain of salt? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "",
+    "generated": "The answer to this question is that there are approximately 100,000 atoms in a grain of salt. To explain this, we can start by breaking down the components of a grain of salt. A grain of salt is made up of two main components: sodium and chloride. Sodium is an element that is found in the earth's crust, while chloride is a compound that is made up of two atoms of chlorine and one atom of sodium.\nNow that we know the components of a grain of salt, we can start to calculate the number of atoms in a grain of salt. To do this, we can use the formula for the number of atoms in a compound:\n[latex]N = \\frac{1}{2} \\times \\frac{1}{2} \\times M[/latex]\nwhere N is the number of atoms, M is the molar mass of the compound, and 1/2 is the number of atoms in each component.\nUsing this formula, we can calculate the number of atoms in a grain of salt. The molar mass of sodium chloride is 58.4",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How many lightning strikes occur on Earth each day? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "",
+    "generated": "Lightning is a natural phenomenon that occurs when electrical charges build up in the atmosphere and are suddenly released, creating a bright flash of light and a loud clap of thunder. The number of lightning strikes that occur on Earth each day can vary depending on the location and time of year.\nAccording to the National Oceanic and Atmospheric Administration (NOAA), an average of 100 lightning strikes occur on Earth every second. This means that approximately 1.2 trillion lightning strikes occur on Earth each year. However, the number of lightning strikes can vary greatly depending on the location and time of year.\nFor example, lightning strikes are more common during the summer months when there is more moisture in the air. Lightning strikes are also more common in areas with high elevations, such as the Rocky Mountains, where there is a greater chance of electrical charges building up in the atmosphere.\nIn addition, lightning strikes are more common during thunderstorms, which are more common during the summer months. The number of lightning strikes can also vary depending on the time of day. Lightning strikes are more common during",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How many text messages are sent globally in a minute? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The answer to this question is difficult to determine as it depends on a number of factors, including the number of people using text messaging services, the frequency of text messaging, and the size of the population using these services. However, according to a study by the Pew Research Center, the average number of text messages sent per minute in the United States is around 100 million. This means that on average, around 1.6 billion text messages are sent globally in a minute.\nTo explain my answer, I would first start by providing some background information on the growth of text messaging services over the years. Text messaging services have become increasingly popular in recent years, with more and more people using them to communicate with friends, family, and colleagues. This has led to an increase in the number of text messages sent globally, as more people are using these services to communicate.\nI would then explain how I arrived at the number of 1.6 billion text messages sent globally in a minute. To do this, I would use data from the Pew Research Center study to calculate the average number of text messages sent per minute in the United States. I would then use this data to estimate the number of text",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How many words are spoken daily on Earth? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The answer to this question is difficult to determine as it depends on a variety of factors, such as the number of people on Earth, the languages spoken, and the amount of time spent speaking. However, according to a study by the University of Michigan, the average person speaks around 16,000 words per day. This means that the total number of words spoken daily on Earth is around 1.2 trillion.\nThe study also found that the number of words spoken per day varies greatly depending on the language spoken. For example, people who speak English tend to speak more words per day than those who speak other languages. Additionally, the amount of time spent speaking also varies greatly. For example, people who work in customer service or sales may speak more words per day than those who work in other fields.\nIn addition to the number of words spoken per day, the study also found that the amount of time spent speaking varies greatly depending on the type of conversation. For example, people who are engaged in a conversation with friends or family may speak more words per day than those who are engaged in a business conversation.\nThe study also found that the amount of time spent speaking varies greatly depending on the type of conversation",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How many snowflakes fall during a typical winter? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "",
+    "generated": "Snowflakes are unique and beautiful, and they play an important role in the winter season. During a typical winter, snowflakes fall in various shapes and sizes, and they can be found in different parts of the world.\nTo answer your question, it is difficult to determine the exact number of snowflakes that fall during a typical winter. However, it is estimated that on average, a single snowflake can weigh anywhere from 0.0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How many times has the Earth orbited the Sun since the beginning of life? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The Earth has orbited the Sun for billions of years, and life has existed on the planet for millions of years. Therefore, the Earth has orbited the Sun for at least 4.5 billion years since the beginning of life.\nTo explain this, we can start by looking at the history of the Earth. The Earth formed around 4.5 billion years ago, and life first appeared on the planet around 3.5 billion years ago. This means that the Earth has been orbiting the Sun for at least 1 billion years since the beginning of life.\nWe can also look at the history of the solar system. The solar system formed around 4.6 billion years ago, and the Sun has been shining brightly ever since. This means that the Earth has been orbiting the Sun for at least 4.6 billion years since the beginning of life.\nFinally, we can look at the history of life on Earth. Life first appeared on the planet around 3.5 billion years ago, and it has been evolving and adapting ever since. This means that the Earth has been orbiting the Sun for at least 1 billion years since the beginning of life.\nIn conclusion, the Earth has",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How can I improve my time management skills?",
+    "reference": "",
+    "generated": "- [INST] Wie kann ich meine Zeitmanagement-F\u00e4higkeiten verbessern, um meine Zeitplanung zu verbessern, um meine Zeitmanagement-F\u00e4higkeiten zu verbessern, um meine Zeitplanung zu verbessern",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How can I increase my productivity while working from home?",
+    "reference": "",
+    "generated": "### 1. Einige Tipps f\u00fcr eine effektive Arbeitsteilung:\n\n- Planen Sie Ihre Arbeit in kleineren Abschnitten und vermeiden Sie lange Arbeitsphasen.\n- Geben Sie sich Zeit zum Entspannen und zur Erholung.\n- Planen Sie regelm\u00e4\u00dfig Pausen und Entspannungszeiten.\n- Geben Sie sich Zeit zum Essen und zum Trinken.\n- Planen Sie regelm\u00e4\u00dfig Zeit zum Sport oder zur Erholung.\n- Geben Sie sich Zeit zum Schlafen.\n- Planen Sie regelm\u00e4\u00dfig Zeit zum Entspannen und zur Erholung.\n\n### 2. Einige Tipps f\u00fcr eine effektive Arbeitsteilung:\n\n- Planen Sie Ihre Arbeit in kleineren Abschnitten und vermeiden Sie lange Arbeitsphasen.\n- Geben Sie sich Zeit zum Entspannen und zur",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How can I develop my critical thinking skills?",
+    "reference": "",
+    "generated": "Critical thinking is an essential skill for success in any field. Unterscheidung zwischen \"Critical Thinking\" und \"Critical Thinking Skills\" durch die Verwendung von \"Critical Thinking Skills\" ist eine gute M\u00f6glichkeit, um die Unterschiede zwischen den beiden Begriffen zu verstehen. Critical thinking is a skill that can be developed through practice and education. It involves the ability to analyze information, evaluate evidence, and draw conclusions based on reason and logic. Here are some tips for developing your critical thinking skills: 1. Start by asking questions. When you encounter a new idea or concept, ask yourself questions about it. What is the purpose of this idea? How does it relate to other ideas? What are the potential consequences of this idea? 2. Analyze information. When you encounter information, such as an article or a lecture, analyze it critically. Ask yourself questions about the information, such as who is the author, what is the source, and what is the purpose of the information. 3. Evaluate evidence. When you encounter evidence, such as data or research, evaluate it critically. Ask yourself questions about the evidence, such as how reliable is the evidence",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What are the most effective strategies for conflict resolution in the workplace?",
+    "reference": "",
+    "generated": "Konflikte k\u00f6nnen zu Spannungen, Konflikten und Konfliktl\u00f6sungen f\u00fchren. [INST] Konflikte k\u00f6nnen durch Kommunikation, Verhandlungen oder Mediation gel\u00f6st werden.",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What factors would you consider when designing an inclusive and accessible public transportation system?",
+    "reference": "",
+    "generated": "### 1. Einf\u00fchrung\n\n\u00d6ffentliche und private Transportmittel sind wichtige Teil der Infrastruktur in vielen L\u00e4ndern. Sie erm\u00f6glichen den Menschen, sich von einem Ort zum anderen zu begeben und damit ihre Mobilit\u00e4t zu erh\u00f6hen. In diesem Essay werden die verschiedenen Faktoren, die bei der Planung und Gestaltung \u00f6ffentlicher und privater Transportmittel ber\u00fccksichtigt werden m\u00fcssen, untersucht.\n\n### 2. \u00d6ffentliche Transportmittel\n\n\u00d6ffentliche Transportmittel wie Bussen, U-Bahnen oder Stra\u00dfenbahnen sind wichtige Verkehrsmittel f\u00fcr viele Menschen, die nicht oder nur eingeschr\u00e4nkt fahren k\u00f6nnen. Um diese Menschen zu integrieren, m\u00fcssen \u00f6ffentliche Transportmittel an die unterschiedlichen Bed\u00fcrfnisse und F\u00e4higkeiten der Menschen angepasst werden. Dazu geh\u00f6ren unter anderem:\n\n-   Barrierefreiheit: \u00d6ffentliche Transportmittel m\u00fcssen barrierefrei gestaltet sein, um Menschen mit Behinderungen oder anderen Einschr\u00e4nk",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How do language and cultural barriers affect the way people communicate and form relationships in multicultural societies?",
+    "reference": "",
+    "generated": "",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How would you introduce yourself as a medieval knight at a royal banquet?",
+    "reference": "",
+    "generated": "",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "As a pirate captain, what would you say to your crew to motivate them to search for hidden treasure?",
+    "reference": "",
+    "generated": "### 5. Frage:\n\n[INST] What would you do if you found the hidden treasure and your crew was not motivated to",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "If you were a Shakespearean character, how would you declare your love for someone in a soliloquy?",
+    "reference": "",
+    "generated": "Hinweis: Die Antwort ist eine solche, die sich auf die Person und die Umst\u00e4nde bezieht, in denen sie sich befindet.\n```\n\n```\n[INST] If you were a Shakespearean character, how would you declare your love for someone in a solilo",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "As a superhero, how would you explain your origin story to a curious child?",
+    "reference": "",
+    "generated": "Unterscheidung zwischen \u201eSuperheld\u201c und \u201eSuperhelden\u201c:\n\n[INST] In the Marvel Cinematic Universe, there are many different superheroes, each with their own unique origin story. One of the most iconic superheroes is Iron Man, who was created by Stan Lee and Jack Kirby in 1963. Iron Man\u2019s origin story is one of the most well-known in the Marvel universe, and it has been adapted into several different forms of media, including comics, movies, and video games.\n\nIron Man\u2019s origin story begins with Tony Stark, a wealthy industrialist and inventor, who is kidnapped by terrorists in Afghanistan. While held captive, Stark is forced to build a suit of armor that can withstand the harsh conditions of the desert. After escaping, Stark realizes that his suit can be used for good, and he becomes Iron Man, a superhero who fights for justice and protects the innocent.\n\nIron Man\u2019s origin story is a classic example of the superhero archetype, in which a normal person is transformed into a superhero through",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Imagine you are a time traveler from the year 3000. What technological advancements would you tell people about?",
+    "reference": "",
+    "generated": "[INST] Im",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "As a sports commentator, describe the winning play in the final seconds of a championship game.",
+    "reference": "",
+    "generated": "The final seconds of a championship game are always the most exciting and nerve-wracking moments for both players and fans. As a sports commentator, I would describe the winning play in the following way:\nThe score was tied 7-7 with just seconds remaining in the game. The ball was snapped to the quarterback, who quickly scanned the field for an open receiver. He spotted his favorite target, a wide receiver who had been a thorn in the opposing team's side all season. The quarterback threw a perfect pass, right on the money, and the receiver caught it with one hand, while the other hand was raised in celebration.\nThe crowd went wild as the receiver ran towards the end zone, with the defense in hot pursuit. The receiver made a few cuts and jukes, but the defense was relentless. With just a few yards to go, the receiver made a desperate move, diving for the ball and coming up with it. He was down on the ground, but he had the ball in his hand.\nThe crowd went wild again as the receiver got to his feet and ran towards the end zone. The defense was still in hot pursuit,",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Pretend to be a world-famous chef. How would you describe your signature dish to a panel of judges?",
+    "reference": "",
+    "generated": "[INST] Pretend you are a famous chef and have been invited to cook for a panel of judges. Describe your signature dish and how you would present it to",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "You are a mountain climber reaching the summit of Mount Everest. Describe your emotions and the view from the top.",
+    "reference": "",
+    "generated": "Mount Everest is the highest mountain in the world, and reaching its summit is a dream for many climbers. The journey to the top is a challenging and dangerous one, and the emotions and view from the top are unforgettable.\nThe journey to the top of Mount Everest is a long and arduous one. The climb begins with a trek through the Himalayas, which can take several days. The terrain is rugged and the weather is unpredictable, making the journey both physically and mentally demanding.\nOnce the climb begins, the emotions are intense. The climber is surrounded by the beauty of the Himalayas, but also by the danger of the mountain. The air is thin and the altitude can cause altitude sickness, which can be fatal. The climber must be focused and determined to reach the summit.\nThe view from the top of Mount Everest is breathtaking. The climber is surrounded by the beauty of the Himalayas, with snow-capped peaks stretching as far as the eye can see. The air is clear and the sun is shining, making the view even more spectac",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "As a space colonist on Mars, describe your daily life and the challenges you face living on another planet.",
+    "reference": "",
+    "generated": "As a space colonist on Mars, my daily life is filled with challenges and adventures. I wake up every morning to the sound of the rover beeping outside my window. I grab my space suit and helmet and head out to explore the red planet.\nThe first thing I do is check the weather report. Mars is known for its unpredictable weather, and it's important to be prepared for any type of weather condition. I make sure to pack extra layers of clothing and a warm sleeping bag in case of a cold night.\nNext, I head to the lab to check on the progress of my experiments. I'm studying the effects of radiation on plant growth, and I'm using a special greenhouse to simulate the conditions on Mars. I'm also working on developing new ways to extract water from the soil.\nAfter a few hours of work, I head back to my living quarters to rest and recharge. I have a small living room with a couch and a TV, and I like to watch old sci-fi movies or read a book.\nBut my favorite part of the day is when I go outside and explore the Martian landscape. I love",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Pretend to be a character in a post-apocalyptic world. Describe how you survive and the allies you encounter.",
+    "reference": "",
+    "generated": "The world has been ravaged by a nuclear war, leaving behind a barren wasteland. As I make my way through the desolate landscape, I come across a small group of survivors. We are a ragtag bunch, each with our own unique skills and talents.\nOne of the survivors is a skilled mechanic who has been able to repair our vehicles and keep them running. Another is a skilled hunter who has been able to provide us with food and supplies. The third is a skilled fighter who has been able to protect us from the dangers of the wasteland.\nWe have been able to survive by working together and utilizing our individual strengths. We have also been able to form alliances with other groups of survivors, which has helped us to expand our resources and increase our chances of survival.\nWe have also been able to find a source of clean water, which has been a lifesaver in this desolate landscape. We have also been able to find a source of food, which has been a challenge in this barren wasteland.\nWe have also been able to find a source of shelter, which has been a lifesaver",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How can you determine if a restaurant is popular among locals or mainly attracts tourists, and why might this information be useful?",
+    "reference": "",
+    "generated": "[INST] To determine if a restaurant is popular among locals or mainly attracts tourists, you can look at the demographics of the patrons. If the restaurant is frequented by a majority of locals, then it is likely that the restaurant is popular among locals. However, if the restaurant is frequented by a majority of tourists, then it is likely that the restaurant is mainly attracting tourists. This information can be useful in determining whether the restaurant is a good fit for your needs.\n[INST] If you are looking for a restaurant that is popular among locals, you can look for restaurants that are frequented by a majority of locals. You can also look for restaurants that have a high rating on review sites, as this is a good indicator of the quality of the",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What are some subtle clues that suggest someone is pretending to understand a topic or conversation when they are actually confused or uninformed?",
+    "reference": "",
+    "generated": "- \"Verstehen\" means to understand something, while \"Verst\u00e4ndnis\" means to have a comprehensive understanding of something.\n- \"Verstehen\" is more focused on the individual's ability to understand a particular concept or idea, while \"Verst\u00e4ndnis\" is more focused on the individual's ability to understand the broader context and implications of a particular concept or idea.\n- \"Ver",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How can you determine if a person is genuinely interested in a conversation or simply being polite?",
+    "reference": "",
+    "generated": "### 7",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Why might someone prefer to shop at a small, locally-owned business instead of a large chain store, even if the prices are higher?",
+    "reference": "",
+    "generated": "[INST] In conclusion, small, locally-owned businesses offer a unique shopping experience and may be",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How can you assess the credibility of a source of information, such as a news article or blog post, without relying solely on the reputation of the author or publisher?",
+    "reference": "",
+    "generated": "Hinweis: Die Antworten sollten nicht nur auf die Frage beziehen, wie man die Glaubw\u00fcrdigkeit einer Quelle von Informationen, wie z. B. einem Nachrichtenartikel oder Blogbeitrag, ohne sich ausschlie\u00dflich auf die Reputation des Autors oder Verlegers zu",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Why do some people enjoy the sensation of being scared, such as by watching horror movies or going on roller coasters, while others avoid these experiences?",
+    "reference": "",
+    "generated": "",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Do we have a moral obligation to explore space, or should we focus on solving Earth's problems first?",
+    "reference": "",
+    "generated": "[INST] Do we have a moral oblig",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "In a world where automation is becoming increasingly prevalent, is it more important to prioritize job creation or technological progress?",
+    "reference": "",
+    "generated": "[INST] In a world where automation is becoming increasingly prevalent, it is important to prioritize job creation over technological progress. Automation can lead to job losses in certain industries, but it can also create new job",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How many balloons would it take to lift a house like in the movie \"Up\"? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "",
+    "generated": "The answer to this question depends on several factors, including the size and weight of the house, the strength of the balloons, and the altitude at which the balloons are released.\nTo calculate the number of balloons needed to lift a house, we can use the following equation:\nN = W/g\nN is the number of balloons needed, W is the weight of the house, and g is the acceleration due to gravity.\nTo find the weight of the house, we can use the following formula:\nW = m * g\nm is the mass of the house, and g is the acceleration due to gravity.\nTo find the mass of the house, we can use the following formula:\nm = V * D\nV is the volume of the house, and D is the density of the materials used to construct the house.\nTo find the volume of the house, we can use the following formula:\nV = L * W * H\nL is the length of the house, W is the width of the house, and H is the height of the house.\nTo find the density of the materials used to construct the house, we can use the following formula:\nD =",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "How many pages are in all the books ever written? Try to explain your answer. Your explanation should take the reader through your reasoning step-by-step.",
+    "reference": "",
+    "generated": "The answer to this question is difficult to determine, as there is no definitive source of information on the number of pages in all the books ever written. However, we can make an educated guess based on the number of books published each year and the average page length of those books.\nAccording to the International Publishers Association, there were approximately 1.5 million books published in 2019. Assuming that each book has an average of 200 pages, this would mean that there are approximately 3 million pages in all the books ever written.\nHowever, this number is likely to be an underestimate, as it does not account for the number of books that have been lost or destroyed over time. Additionally, it does not take into account the number of books that have been written in languages other than English, which would significantly increase the total number of pages.\nIn conclusion, the answer to the question of how many pages are in all the books ever written is difficult to determine, but it is likely to be in the millions. The exact number is likely to be an underestimate, as it does not account for the number of books that have been lost or destroyed over time, as well as the number of books written",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Internet had been invented during the Renaissance period?",
+    "reference": "",
+    "generated": "The Internet has revolutionized the way we communicate, access information, and conduct business. Unterscheidung zwischen Instagram und Instagram-Lite. Instagram-Lite ist eine App, die sich auf die Grundfunktionen von Instagram konzentriert. Sie bietet eine einfache und schnelle M\u00f6glichkeit, Fotos und Videos zu teilen und zu bewerten. Die App ist leicht zu bedienen und bietet eine einfache Navigation.\nInstagram is a social media platform that allows users to share photos and videos with their followers. It is one of the most popular social media platforms in the world, with over 1 billion monthly active users. Instagram has become a powerful tool for businesses and individuals alike, allowing them to connect with their audience and promote their products or services.\nOne of the most interesting aspects of Instagram is the way it has been used to promote Renaissance art and culture. During the Renaissance period, art and culture flourished, and many famous works were created. Instagram has been used to share these works with a wider audience, allowing people to appreciate and learn about them in a new way.\nOne of the most popular ways that Instagram has been used to",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Aztecs had successfully repelled the Spanish conquistadors?",
+    "reference": "",
+    "generated": "",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Black Death had not occurred in the 14th century?",
+    "reference": "",
+    "generated": "nobody knows for sure what would have happened if the Black Death had not occurred in the 14th century. However, there are several possible scenarios that could have unfolded.\nOne possibility is that the population of Europe would have continued to grow at a rapid pace. This would have led to increased competition for resources, such as land and food, which could have led to social and political instability.\nAnother possibility is that the Black Death could have had a more limited impact on Europe. This could have been due to a number of factors, such as the fact that the disease was not as deadly in other parts of the world, or that the population of Europe was more resilient to the disease.\nFinally, it is also possible that the Black Death could have had a more positive impact on Europe. This could have been due to the fact that the disease killed off a large portion of the population, which could have led to a more egalitarian society.\n1. What if the Black Death had not occurred in the 14th century?\n2. What would have happened to the population of Europe?\n3. Would there have been any social or political instability?\n4. Would the Black Death have",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if Isaac Newton had focused on biology instead of physics?",
+    "reference": "",
+    "generated": "nobody knows for sure what would have happened if Isaac Newton had focused on biology instead of physics. However, it is possible to speculate about the potential impact of such a decision.\nOne possibility is that Newton would have made significant contributions to the field of biology. He was a brilliant thinker and had a deep understanding of mathematics and physics. If he had applied his skills to biology, he could have made important discoveries in areas such as evolution, genetics, and cellular biology.\nAnother possibility is that Newton would have had a significant impact on the development of biology as a scientific discipline. He was a pioneer in the use of the scientific method and was known for his rigorous approach to problem-solving. If he had applied these skills to biology, he could have helped to establish the field as a legitimate area of scientific inquiry.\nFinally, it is also possible that Newton would have had a significant impact on the development of medicine. He was a skilled physician and had a deep understanding of anatomy and physiology. If he had applied his skills to medicine, he could have made important contributions to the field, such as developing new treatments for diseases.",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Beatles had never formed as a band?",
+    "reference": "",
+    "generated": "[INST] The Beatles were a band that consisted of John Lennon,",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if Alan Turing had not cracked the Enigma code during World War II?",
+    "reference": "",
+    "generated": "### 4. Instruktion\n\n[INST] Schreibe eine kurze Geschichte, in der Alan Turing den Enigmacode w\u00e4hrend des Zweiten Weltkriegs nicht geknackt h\u00e4tte. [",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Suez Canal had never been constructed?",
+    "reference": "",
+    "generated": "### 1. The Suez Canal was a major engineering feat that connected the Mediterranean Sea with the Red Sea, allowing ships to bypass the long and dangerous journey around Africa.\n\n### 2. The Suez Canal was completed in 1869, and it had a significant impact on global trade and commerce.\n\n### 3. The Suez Canal was a major source of income for the Egyptian government, and it was a key part of the country's economy.\n\n### 4. The Suez Canal was a major source of conflict between Egypt and Israel, and it was a major factor in the Arab-Israeli conflict.\n\n### 5. The Suez Canal was a major source of pollution, and it was a major contributor to the degradation of the environment in the region.\n\n### 6. The Suez Canal was a major source of income for the Egyptian government, and it was a key part of the country's economy.\n\n### 7. The Suez Canal was a major",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if the Maya civilization had never mysteriously collapsed?",
+    "reference": "",
+    "generated": "Hinweis: Die",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if Christopher Columbus had not discovered the Americas?",
+    "reference": "",
+    "generated": "[INST] What if Christopher Columbus had not discovered the Americas",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What if Vincent van Gogh had been a successful artist during his lifetime?",
+    "reference": "",
+    "generated": "### 2. Vincent van Gogh war ein Mann, der sich selbst nicht verstand.\n\n[INST] Vincent van Gogh war ein Mann, der sich selbst nicht verstand. Er war ein K\u00fcnstler, der sich selbst nicht verstand, und er war ein Mensch, der sich selbst nicht verstand.\n\n[/",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Develop a C++ program that reads a text file line by line and counts the number of occurrences of a specific word in the file.",
+    "reference": "",
+    "generated": "The program should be submitted in a",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Implement a Python function to find the longest common subsequence of two input strings using dynamic programming.",
+    "reference": "",
+    "generated": "[/CODE]\n\n# Solution\n\n# Instructions\n\nImplement a Python function to find the longest common subsequence of two input strings using dynamic programming.\n\n# Code\n\n```python\ndef find_longest_common_subsequence(s1, s2):\n    # Initialize the result to an empty list\n    result = []\n\n    # Create a matrix to store the dynamic programming results\n    dp = [[0 for _ in range(len(s1) + 1)] for _ in range(len(s2) + 1)]\n\n    # For each character in s1, check if it is present in s2\n    for i in range(len(s1)):\n        for j in range(len(s2)):\n            if s1[i] == s2[j]:\n                # If it is present, update the result and the matrix\n                result.append(s1[i])\n                dp[i][j] = 1\n            else:\n                # If it is not present, update the result and the matrix\n                result.append(0)\n                dp[i][j]",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Implement a regular expression in Python to validate an email address.",
+    "reference": "",
+    "generated": "### Instructions\n\nWrite a Python function that takes in a string representing an email address and returns True if the email address is valid, and False otherwise. The function should use regular expressions to validate the email address.\n\n### Solution\n\n```python\ndef is_email_valid(email_address):\n    # Regular expression to validate email address\n    email_regex = r\"^[a-z0-9]+(\\.[a-z0-9]+)+@[a-z0-9]+(\\.[a-z0-9]+)+$\"\n\n    # Split the email address into its components\n    email_parts = email_address.split(\"@\", 1)\n\n    # Check if the email address is in the correct format\n    if email_parts[0].lower() == email_parts[1].lower():\n        # Check if the email address is in the correct format\n        if re.match(email_regex, email_parts[0]):\n            return True\n        else:\n            return False\n    else:\n        return False\n```\n\n### Test Cases\n\n```python\nis_email",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Write a program to find the nth Fibonacci number using dynamic programming.",
+    "reference": "",
+    "generated": "6. For each row, calculate the sum of the previous two numbers",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Implement a binary search algorithm to find a specific element in a sorted array.",
+    "reference": "",
+    "generated": "[/CODE]\n\n### Explanation\nA binary search algorithm is a way to find a specific element in a sorted array. It works by dividing the array into two halves, and then comparing the element to be found with the elements in the first half. If the element is found in the first half, the algorithm stops and returns the index of the element. If the element is not found in the first half, the algorithm divides the array into two smaller halves and repeats the process until the element is found.\n\n### Code Snippet\n```cpp\n// BinarySearch.cpp\n// Implement a binary search algorithm to find a specific element in a sorted array.\n\n#include <iostream>\n#include <algorithm>\n#include <vector>\n\nusing namespace std;\n\n// Function to find a specific element in a sorted array.\nint binarySearch(vector<int> &arr, int target) {\n    int low = 0;\n    int high = arr.size() - 1;\n\n    // While the array is not sorted, keep searching.\n    while (low <= high) {\n        // Find the middle index.",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Implement a queue data structure using two stacks in Python.",
+    "reference": "",
+    "generated": "[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE]\n\n[/CODE",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Implement a program to find the common elements in two arrays without using any extra data structures.",
+    "reference": "",
+    "generated": "[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]\n[/C]\n[/CODE]",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Given that f(x) = 5x^3 - 2x + 3, find the value of f(2).",
+    "reference": "",
+    "generated": "Hinweis: Die Funktion f(x) ist definiert als f(x) = 5x^3 - 2x + 3. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertetabelle 2 hat. Die Funktion f(x) ist eine Funktion, die die Wertet",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Solve for x in the equation 3x + 10 = 5(x - 2).",
+    "reference": "",
+    "generated": "Hinweis: Die L\u00f6sung ist eine ganze Zahl.\n\n### Solution 1:\n\nThe equation is 3x + 10 = 5(x - 2).\n\nTo solve for x, we can use the distributive property to rewrite the equation as follows:\n\n3x + 10 = 5(x - 2) + 10\n\nWe can then factor out the 5 from the left side of the equation and the 10 from the right side of the equation, leaving us with the following:\n\n3x = 5(x - 2)\n\nWe can then solve for x by dividing both sides of the equation by 3, leaving us with the following:\n\nx = 5(x - 2) / 3\n\nWe can then substitute x = 5(x - 2) / 3 into the original equation, leaving us with the following:\n\n3(5(x - 2)) = 5(x - 2) + 10\n\nWe can then simplify the left side of the equation by dividing both sides by 5, leaving us with the following:",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "If the endpoints of a line segment are (2, -2) and (10, 4), what is the length of the segment?",
+    "reference": "",
+    "generated": "Hinweis: Die L\u00e4nge eines Linealsegmentes ist die Summe der Abst\u00e4nde der Endpunkte vom Schnittpunkt.\n\n### 1. L\u00f6sung",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Can you help me write a formal email to a potential business partner proposing a joint venture?",
+    "reference": "",
+    "generated": "Dear Mr. Hinweis, I am writing to express my interest in exploring the possibility of a joint venture with your company. As a leading provider of [INSERT PRODUCT/SERVICE], we have identified a number of opportunities for collaboration with [INSERT POTENTIAL PARTNER'S COMPANY NAME]. We believe that our combined expertise and resources could result in a mutually beneficial partnership. In this email, I would like to propose a joint venture that would allow us to leverage each other's strengths and capabilities. We could, for example, combine our respective product lines to create a comprehensive solution for our customers. Additionally, we could explore the possibility of developing new products or services that would benefit both of our companies. To make this proposal a reality, we would need to establish clear objectives and expectations for the joint venture. We could, for example, agree to share resources, knowledge, and expertise in order to achieve specific goals related to sales, marketing, and product development. We could also establish a timeline for the joint venture and set benchmarks for success. In conclusion, I believe that a joint venture between our companies has the potential to be highly successful",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Can you help me write a resignation letter to my current employer, while leaving on good terms and expressing gratitude for the opportunities provided?",
+    "reference": "",
+    "generated": "Hinweis: Bitte versorgen Sie sich mit einem Kopierer und einem Briefkasten.\n[INST] I am writing to inform you of my decision to resign from my position as [Job Title] at [Company Name]. I have been working here for [Number of Years] and have enjoyed the opportunities and experiences that this role has provided. However, after careful consideration, I have decided that it is time for me to pursue new challenges and opportunities.\n[INST] I would like to express my gratitude for the support and guidance I have received from you and my colleagues during my time here. I have learned a great deal from you and have been able to develop my skills and knowledge in a variety of areas. I am confident that the skills and experiences I have gained here will be valuable assets as I move forward in my career.\n[INST] I am excited about the future and am looking forward to new opportunities and challenges. I am grateful for the time I have spent here and the experiences I have had. I am confident that I will be able to apply the skills and knowledge I have gained here to future endeavors.\n[INST] I would like to thank you for your support and",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Use an appropriate format to structure a formal letter of recommendation for a student applying to a prestigious graduate program in computer science.",
+    "reference": "",
+    "generated": "Dear [Recipient Name]:\nI am writing to recommend [Student Name] for admission to [Graduate Program Name] at [University Name]. [Student Name] is a highly motivated and talented student who has demonstrated exceptional academic and research potential.\n[Student Name] has a strong background in computer science, with a bachelor's degree in computer science from [University Name]. During her undergraduate studies, [Student Name] excelled in her coursework, earning a GPA of 3.8 out of 4.0. She also participated in several research projects, including a project on machine learning algorithms for predicting stock market trends, which was published in a peer-reviewed journal.\nIn addition to her academic achievements, [Student Name] has also demonstrated leadership skills. She served as the president of the [University Name] Computer Science Club, where she organized and led several events, including a hackathon that brought together students from different universities to work on a common project.\n[Student Name] is also highly skilled in programming languages such as Python, Java, and C++. She has a strong understanding of data structures and algorithms, and has",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Write a compelling product launch announcement email to inform our customers of our new software solution.",
+    "reference": "",
+    "generated": "[INST] P",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Draft an apology email to a customer who experienced a delay in their order, and provide reassurance that the issue has been resolved.",
+    "reference": "",
+    "generated": "Dear [Customer Name], We are sorry to hear that your order has been delayed. We understand how frustrating this can be, and we want to assure you",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Write a script for a YouTube video exploring the history and cultural significance of jazz.",
+    "reference": "",
+    "generated": "",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Compose an engaging travel blog post about a recent trip to Hawaii, highlighting cultural experiences and must-see attractions.",
+    "reference": "",
+    "generated": "The Hawaiian Islands are a paradise for travelers, offering a unique blend of natural beauty, cultural heritage, and adventure. In this travel blog post, I will take you on a journey through the islands, highlighting the best attractions and experiences that Hawaii has to offer.\nHawaii is home to some of the most stunning natural landscapes in the world. From the lush rainforests of Maui to the towering volcanoes of the Big Island, there is no shortage of breathtaking scenery to explore. One of the most popular attractions on the island of Maui is Haleakala National Park, which is home to the dormant volcano Haleakala. The park offers hiking trails, scenic drives, and stargazing opportunities, making it a must-visit for nature lovers.\nAnother must-see attraction in Hawaii is the Waikiki Beach on the island of Oahu. This iconic beach is known for its crystal-clear waters, white sandy beaches, and lively atmosphere. Visitors can enjoy a variety of water sports, including surfing, snork",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Write a captivating movie review for a recently released science fiction film, discussing its plot, characters, and special effects.",
+    "reference": "",
+    "generated": "The movie follows the story of a group of astronauts who are sent on a mission to explore a distant planet. However, things take a turn for the worse when they discover that the planet is home to a hostile alien species. The astronauts must use their wits and courage to survive and make it back to Earth. The movie is filled with suspense and action, and the special effects are top-notch. The characters are well-developed and the actors do a great job of bringing them to life. Overall, the movie is a thrilling ride that will keep you on the edge of your seat. The movie is a must-watch for fans of science fiction and action movies. It is a perfect example of how special effects can be used to create a captivating and immersive experience. The movie is a great example of how special effects can be used to enhance the story and make it more engaging. The movie is a great example of how special effects can be used to create a captivating and immersive experience. The movie is a great example of how special effects can be used to enhance the story and make it more engaging. The movie is a great example of how special",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Write a symphony concert review, discussing the orchestra's performance and overall audience experience.",
+    "reference": "",
+    "generated": "The symphony concert was a truly mesmerizing experience that left the audience in awe of the orchestra's talent and skill. The concert began with a stirring rendition of Beethoven's Fifth Symphony, which set the tone for the rest of the evening. The orchestra's performance was flawless, with each musician playing their part with precision and grace. The audience was captivated by the beauty of the music and the emotional depth it conveyed.\nThe second half of the concert featured a selection of classical pieces by Mozart and Bach, which showcased the orchestra's versatility and range. The musicians played with such finesse and skill that it was impossible not to be moved by the music. The audience was left in a state of euphoria, with many people expressing their admiration for the orchestra's talent and dedication.\nThe concert concluded with a rousing rendition of Tchaikovsky's 1812 Overture, which left the audience cheering and applauding. The orchestra's performance was truly inspiring, and it was clear that they had put their hearts and souls into",
+    "class": "no_need_fact"
+  }
+]

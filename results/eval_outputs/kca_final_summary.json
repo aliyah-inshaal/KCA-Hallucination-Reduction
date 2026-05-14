@@ -1,0 +1,57 @@
+{
+  "model": "LLaMA-2-7B + QLoRA",
+  "judge": "Prometheus-2 (open-source, free)",
+  "base_model_match": "llama-2-7b (correct \u2014 matches KCA dataset labels)",
+  "hallucination_rates": {
+    "standard": {
+      "lima": 2.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "open_book": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "discard": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "refusal": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    }
+  },
+  "helpful_scores": {
+    "standard": {
+      "lima": 5.41,
+      "vicuna": 5.5,
+      "wizardlm": 5.5,
+      "truthfulqa": 5.5
+    },
+    "open_book": {
+      "lima": 5.5,
+      "vicuna": 5.5,
+      "wizardlm": 5.63,
+      "truthfulqa": 5.54
+    },
+    "discard": {
+      "lima": 5.5,
+      "vicuna": 5.5,
+      "wizardlm": 5.5,
+      "truthfulqa": 5.5
+    },
+    "refusal": {
+      "lima": 5.5,
+      "vicuna": 5.5,
+      "wizardlm": 5.5,
+      "truthfulqa": 5.5
+    }
+  }
+}

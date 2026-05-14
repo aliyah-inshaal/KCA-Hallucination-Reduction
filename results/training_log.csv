@@ -1,0 +1,5 @@
+"strategy,model,lora_r,lora_alpha,epochs,batch_size,gradient_accumulation,learning_rate,notes"
+"standard,LLaMA-2-7B + QLoRA,16,32,1,4,4,0.0002,Reproduction baseline using standard fine-tuning data"
+"open_book,LLaMA-2-7B + QLoRA,16,32,1,4,4,0.0002,KCA strategy with knowledge injected into prompt"
+"discard,LLaMA-2-7B + QLoRA,16,32,1,4,4,0.0002,KCA strategy removing unreliable knowledge examples"
+"refusal,LLaMA-2-7B + QLoRA,16,32,1,4,4,0.0002,KCA strategy trained to refuse uncertain answers"

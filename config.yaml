@@ -1,0 +1,36 @@
+project_name: "KCA Hallucination Reduction"
+
+base_model: "NousResearch/Llama-2-7b-hf"
+
+training:
+  strategy: "refusal"
+  train_file: "data/sample_data.csv"
+  output_dir: "checkpoints/model_refusal"
+  max_seq_length: 1024
+  num_train_epochs: 1
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 4
+  learning_rate: 0.0002
+  warmup_ratio: 0.03
+  logging_steps: 20
+  save_steps: 200
+  samples_per_class: 500
+
+lora:
+  r: 16
+  lora_alpha: 32
+  lora_dropout: 0.05
+  target_modules:
+    - q_proj
+    - k_proj
+    - v_proj
+    - o_proj
+    - gate_proj
+    - up_proj
+    - down_proj
+
+generation:
+  max_new_tokens: 256
+  temperature: 0.3
+  top_p: 0.9
+  refusal_aware: true

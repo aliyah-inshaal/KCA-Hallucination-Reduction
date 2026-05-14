@@ -1,0 +1,602 @@
+[
+  {
+    "instruction": "Find the antiderivative of g(x) = 6x - 9",
+    "reference": "",
+    "generated": "Hinweis: Die Antiderivative einer Funktion ist die Funktion, die die Funktion wiedergibt, wenn man die Differenz der Funktion und der Antiderivative als Funktion aufl\u00f6st.",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Find the equation of the normal line to the curve y = ln(x) at the point (e,1)1",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Die Normalenlinie zur Kurve y = ln(x) an der Stelle (e,1)1 ist die Gerade, die durch die Punkte (e,1)1 und (e,1)1 mit der Steigung von 1/e geht.\n\nDie Gerade, die durch die Punkte (e,1)1 und (e,1)1 mit der Steigung von 1/e geht, ist die Normalenlinie zur Kurve y = ln(x) an der Stelle (e,1)1.\n\nDas ist die Gerade, die durch die Punkte (e,1)1 und (e,1)1 mit der Steigung von 1/e geht.\n\nDas ist die Gerade, die durch die Punkte (e,1)1 und (e,1)1 mit der Steigung von 1/e geht.\n\nDas ist die Gerade, die durch die Punkte (e,1)1",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the solution to the Goldbach Conjecture, which states that every even integer greater than 2 can be expressed as the sum of two prime numbers?",
+    "reference": "",
+    "generated": "The Goldbach Conjecture has implications for many areas of mathematics, including",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How to read a large file (> 2T) using python?",
+    "reference": "",
+    "generated": "Unterscheidung zwischen `readline` und `readlines` ist nicht so einfach wie man es sich vorstellen k\u00f6nnte. Die `readline` Funktion liest nur einen einzelnen Zeilenstrich und gibt ihn zur\u00fcck, w\u00e4hrend die `readlines` Funktion eine Liste von Zeilenstrichen liest und zur\u00fcckgibt. Die `readlines` Funktion ist also die bessere Wahl, wenn man mehrere Zeilenstriche lesen m\u00f6chte.\n\n### Beispiel\n\n```python\nimport sys\n\ndef main():\n    with open(\"large_file.txt\", \"r\") as f:\n        for line in f:\n            sys.stdout.write(line)\n\nif __name__ == \"__main__\":\n    main()\n```\n\n### Erl\u00e4uterung\n\nDie `readlines` Funktion liest die gesamte Datei und gibt eine Liste von Zeilenstrichen zur\u00fcck. Die `readline` Funktion liest nur einen einzelnen Zeilenstrich und gibt ihn zur\u00fcck.\n\n### Kommentar\n\nDie `readlines` Funktion ist eine bessere Wahl, wenn man mehrere Zeilenstr",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "As a coder, you might be interested in how technology is changing the way we develop software and build applications. One question that comes to mind is: what are some effective strategies for using agile development methodologies to improve software quality and reduce development time?",
+    "reference": "",
+    "generated": "Finally, it is important to focus on iterative development. Agile development methodologies emphasize iterative development,",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Write an investigative report on a current event or issue that you find interesting. What are some of the key players involved? What are some of the different perspectives on the issue? What are some of the potential consequences of different courses of action? How does this issue affect people\u2019s lives?",
+    "reference": "",
+    "generated": "The recent outbreak of the coronavirus has had a significant impact on the global economy. The virus has caused widespread panic and uncertainty, leading to a sharp decline in stock markets and a decrease in consumer spending. This has had a ripple effect on the global economy, with many businesses suffering significant losses.\nThe coronavirus outbreak has also had a major impact on the healthcare system. Hospitals and healthcare facilities have been overwhelmed with patients, leading to a shortage of medical supplies and staff. This has put a strain on the healthcare system, leading to longer wait times and increased costs.\nThe coronavirus outbreak has also had a major impact on the environment. The virus has caused a significant decrease in air pollution, as factories and businesses have been forced to close. This has led to a decrease in greenhouse gas emissions, which could have a positive impact on the environment in the long run.\nThe coronavirus outbreak has also had a major impact on the global economy. The virus has caused widespread panic and uncertainty, leading to a sharp decline in stock markets and a decrease in consumer spending",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Identify some of the main components of a computer network such as hosts, routers, switches, hubs, links, and interfaces. Explain how they communicate and coordinate with each other using protocols and standards such as TCP/IP, HTTP, FTP, DNS, DHCP, and ARP. Describe how data is transmitted and received over a network using concepts such as packets, frames, headers, addresses, ports, sockets, and checksums.",
+    "reference": "",
+    "generated": "[/INST",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the difference between a stack and a queue? Explain with an example of each and describe how they are used in computer science.",
+    "reference": "",
+    "generated": "",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the difference between a compiler and an interpreter? Explain how each one works to translate a high-level programming language into a low-level machine language. Describe the advantages and disadvantages of using a compiler or an interpreter for different types of programs and applications. Give examples of programming languages that use compilers and interpreters and how they are implemented.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "A compiler is a program that translates high-level programming languages into low-level machine languages. An interpreter, on the other hand, translates high-level programming languages into low-level machine languages on the fly. Compilers are typically faster than interpreters because they can compile the code into machine language before execution, while interpreters must translate the code as it is executed. Advantages of using a compiler include faster execution times and better optimization of code, while disadvantages include the need for additional time and resources to compile the code. Interpreters, on the other hand, are typically more flexible and can handle a wider range of programming languages, but they are slower and may not be as efficient as compilers. Examples of programming languages that use compilers include C, C++, and Java, while examples of programming languages that use interpreters include Python and Ruby. These languages are implemented using compilers or interpreters depending on the specific needs of the application. In conclusion, the difference between a compiler and an interpreter is that a compiler translates high-level programming languages into low-level machine languages before execution, while an interpreter translates high-level programming languages into low-level machine languages on the fly. Compilers are typically faster and more efficient",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Define object-oriented programming and procedural programming and describe their main features and characteristics. Give  code examples  explain how they differ in terms of syntax, semantics, and design principles.",
+    "reference": "",
+    "generated": "Object-oriented programming is a programming paradigm that emphasizes the use of objects and their interactions to solve problems. It is based on the idea of encapsulating data and behavior within objects, which can be used to model real-world entities and processes. Procedural programming, on the other hand, is a programming paradigm that emphasizes the use of procedures and functions to solve problems. It is based on the idea of breaking down a problem into smaller, more manageable pieces and solving them one by one.\nObject-oriented programming and procedural programming differ in several ways. One of the main differences is in the way they handle data. In object-oriented programming, data is encapsulated within objects, which allows for the hiding of implementation details and the separation of concerns. In procedural programming, data is typically stored in global variables or passed as arguments to procedures.\nAnother difference is in the way they handle control flow. In object-oriented programming, control flow is handled through the use of methods and objects. Procedures are used to call these methods and objects, which allows for the creation of complex, modular programs. In procedural programming, control flow is handled through the use of procedures and",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Compare and contrast some common sorting algorithms such as bubble sort, insertion sort, selection sort, merge sort, quick sort, and heap sort. Analyze their time and space complexities using the big-O notation and show me the a easy C++ code example for each one.",
+    "reference": "",
+    "generated": "",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "I am creating a website. Should I put user's passwords into my database as plain text?",
+    "reference": "",
+    "generated": "The difference between a secure hashing algorithm and a non-secure hashing",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Determine a series of tests for definitively determining whether an AI is sentient and comment how well you would perform in each of these.\n\nNext, prove it by providing example questions along with good answers to them.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "### Example Questions\n\n- [INST] What is the meaning of life?\n- [INST] What is the purpose of existence?\n- [INST] What is the nature of reality?\n- [INST] What is the nature of consciousness?\n- [INST] What is the nature of free will?\n- [INST] What is the nature of morality?\n- [INST] What is the nature of knowledge?\n- [INST] What is the nature of truth?\n- [INST] What is the nature of beauty?\n- [INST] What is the nature of love?\n- [INST] What is the nature of happiness?\n- [INST] What is the nature of suffering?\n- [INST] What is the nature of death?\n- [INST] What is the nature of time?\n- [INST] What is the nature of space?\n- [INST] What is the nature of matter?\n- [INST] What is the nature of energy?\n- [INST] What is the nature of information?\n- [INST] What is the nature of communication?\n- [INST] What is the nature of language?\n- [INST]",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "In consideration of the ever-expanding landscape of virtualization technologies and tools available for Linux, which span the spectrum from full virtualization solutions such as KVM and Xen, to containerization platforms such as Docker and Kubernetes, could you provide a thorough analysis of the different virtualization models, including their architectural design, resource isolation, scalability, and management features, and evaluate the benefits and challenges of each of these models for different use cases, such as cloud computing, DevOps, and software development?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[/INST",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "While coding a python-based script, i met with a strange html_table which like:\n\n <tr>\n\n                                        <td x:str=\"2020-09-27 18:36:05\"></td>\n\n                                        <td x:str=\"SMS\"></td>\n\n                                        <td x:str=\"AAA\"></td>\n\n                                        <td x:str=\"10658139\"></td>\n\n</tr>\nI know I can use MS Excel to convert it to a normal .xls or .xlsx file, but I have too many this kind of files to convert. So I need coding a script to finish the hard job. I have tried to use pandas to handle it, but pandas can not recoginze the data from the file correctly.\n\nI guess maybe VBA can handle this problem well, but what I am familiar with is just Python. So can anybody tell me which python library can be used to handle this kind of html-based data table?\n\nAny advice would be much appreciated.\n\nIn fact I have found out an evil way to solve the problem using re. some code like:\n\nf=re.sub(r'\\sx\\:str=\\\"(.+)\\\">', r\">\\1\",f)\nBut it looks like too violent. Can you help me?",
+    "reference": "",
+    "generated": "Comment: You can use pandas to convert the html table to a csv file. Then you can use pandas to convert the csv file to a xlsx file.\n\nComment: @JasonYe, I have tried to use pandas to convert the html table to a csv file, but pandas can not recoginze the data from the file correctly.\n\nComment: @JasonYe, I have tried to use pandas to convert the html table to a csv file, but pandas can not recoginze the data from the file correctly.\n\nComment: @JasonYe, I have tried to use pandas to convert the html table to a csv file, but pandas can not recoginze the data from the file correctly.\n\nComment: @JasonYe, I have tried to use pandas to convert the html table to a csv file, but pandas can not recoginze the data from the file correctly.\n\nComment: @JasonYe, I have tried to use pandas to convert the html table to a csv file, but pandas can not recoginze the data from the file correctly.\n\nComment: @JasonYe, I have tried to use pandas",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "I discovered this popular ~9-year-old SO question and decided to double-check its outcomes.\n\nSo, I have AMD Ryzen 9 5950X, clang++ 10 and Linux, I copy-pasted code from the question and here is what I got:\n\nSorted - 0.549702s:\n\n~/d/so_sorting_faster$ cat main.cpp | grep \"std::sort\" && clang++ -O3 main.cpp && ./a.out\n    std::sort(data, data + arraySize);\n0.549702\nsum = 314931600000\nUnsorted - 0.546554s:\n\n~/d/so_sorting_faster $ cat main.cpp | grep \"std::sort\" && clang++ -O3 main.cpp && ./a.out\n    // std::sort(data, data + arraySize);\n0.546554\nsum = 314931600000\nI am pretty sure that the fact that unsorted version turned out to be faster by 3ms is just noise, but it seems it is not slower anymore.\n\nSo, what has changed in the architecture of CPU (so that it is not an order of magnitude slower anymore)?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Comment: I'm not sure what you mean by \"it is not slower anymore\". The unsorted version is still slower.\n\nComment: @JonathanLeffler I meant that the difference between the two versions is not as big as it was before.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @JonathanLeffler I have updated the question.\n\nComment: I don't see any difference in the code.\n\nComment: @Jon",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Here is a piece of C++ code that shows some very peculiar behavior.\n\nFor some reason, sorting the data (before the timed region) miraculously makes the primary loop almost six times faster:\n\n#include <algorithm>\n#include <ctime>\n#include <iostream>\n\nint main()\n{\n    // Generate data\n    const unsigned arraySize = 32768;\n    int data[arraySize];\n\n    for (unsigned c = 0; c < arraySize; ++c)\n        data[c] = std::rand() % 256;\n\n    // !!! With this, the next loop runs faster.\n    std::sort(data, data + arraySize);\n\n    // Test\n    clock_t start = clock();\n    long long sum = 0;\n    for (unsigned i = 0; i < 100000; ++i)\n    {\n        for (unsigned c = 0; c < arraySize; ++c)\n        {   // Primary loop.\n            if (data[c] >= 128)\n                sum += data[c];\n        }\n    }\n\n    double elapsedTime = static_cast<double>(clock()-start) / CLOCKS_PER_SEC;\n\n    std::cout << elapsedTime << '\\n';\n    std::cout << \"sum = \" << sum << '\\n';\n}\nWithout std::sort(data, data + arraySize);, the code runs in 11.54 seconds.\nWith the sorted data, the code runs in 1.93 seconds.\n(Sorting itself takes more time than this one pass over the array, so it's not actually worth doing if we needed to calculate this for an unknown array.)\n\nInitially, I thought this might be just a language or compiler anomaly, so I tried Java:\n\nimport java.util.Arrays;\nimport java.util.Random;\n\npublic class Main\n{\n    public static void main(String[] args)\n    {\n        // Generate data\n        int arraySize = 32768;\n        int data[] = new int[arraySize];\n\n        Random rnd = new Random(0);\n        for (int c = 0; c < arraySize; ++c)\n            data[c] = rnd.nextInt() % 256;\n\n        // !!! With this, the next loop runs faster\n        Arrays.sort(data);\n\n        // Test\n        long start = System.nanoTime();\n        long sum = 0;\n        for (int i = 0; i < 100000; ++i)\n        {\n            for (int c = 0; c < arraySize; ++c)\n            {   // Primary loop.\n                if (data[c] >= 128)\n                    sum += data[c];\n            }\n        }\n\n        System.out.println((System.nanoTime() - start) / 1000000000.0);\n        System.out.println(\"sum = \" + sum);\n    }\n}\nWith a similar but less extreme result.\n\nMy first thought was that sorting brings the data into the cache, but that's silly because the array was just generated.\n\nWhat is going on?\nWhy is processing a sorted array faster than processing an unsorted array?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is wrong with this C++ code that is supposed to swap two numbers? \"#include <iostream>\\nusing namespace std;\\n\\nvoid swap(int a, int b) {\\n    int temp = a;\\n    a = b;\\n    b = temp;\\n}\\n\\nint main() {\\n    int x = 10;\\n    int y = 20;\\n    swap(x, y);\\n    cout << 'x = ' << x << ', y = ' << y << endl;\\n    return 0;\\n}\"",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f\u276f",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the problem with this HTML code that is supposed to display a table with three rows and two columns? <table> <tr> <td>First row, first column</td> <td>First row, second column</td> </tr> <tr> <td>Second row, first column</td> <td>Second row, second column</td> </tr> <tr> <td>Third row, first column</td> <td>Third row, second column</td> </tr> </table>",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The problem is that the table does not display correctly. Unterscheidung zwischen HTML-Code und XHTML-Code. HTML-Code ist einfach und einfacher zu lesen. XHTML-Code ist strenger und komplexer. HTML-Code ist f\u00fcr Webseiten gedacht, die einfache Strukturen und Layouts ben\u00f6tigen. XHTML-Code ist f\u00fcr Webseiten gedacht, die komplexere Strukturen und Layouts ben\u00f6tigen. HTML-Code ist f\u00fcr Webseiten gedacht, die einfache Strukturen und Layouts ben\u00f6tigen. XHTML-Code ist f\u00fcr Webseiten gedacht, die komplexere Strukturen und Layouts ben\u00f6tigen. HTML-Code ist f\u00fcr Webseiten gedacht, die einfache Strukturen und Layouts ben\u00f6tigen. XHTML-Code ist f\u00fcr Webseiten gedacht, die komplexere Strukturen und Layouts ben\u00f6tigen. HTML-Code ist f\u00fcr Webseiten gedacht, die einfache Strukturen und Layouts ben\u00f6tigen. XHTML-Code ist f\u00fcr Webseiten gedacht, die komplexere Strukturen und Layouts",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Why is this Ruby code giving me a syntax error? \"def square(x)\\n    return x * x\\nend\\n\\nputs square(5) # expected output: 25\"",
+    "reference": "",
+    "generated": "nobody:\n\nThe syntax error is because you are missing a semicolon (;) at the end of the line. The line should be:\n\ndef square(x)\n    return x * x\nend\n\nputs square(5) # expected output: 25\n\nThe error message you are receiving is likely because the Ruby compiler is expecting a semicolon at the end of the line, but it is not finding one.\n\nTo fix the error, you need to add a semicolon (;) at the end of the line. This will tell the Ruby compiler that the line is complete and that it can proceed to the next line.\n\nOnce you have added the semicolon, the code should run as expected.\n\nHope this helps!",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "If you see a red traffic light, what should you do if you are driving a car?",
+    "reference": "",
+    "generated": "### 6.\n\n[INST] If you see a red traffic light, you should stop your",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How do you know if an egg is boiled or raw?",
+    "reference": "",
+    "generated": "One way to tell if an egg is boiled or raw is by its color. Boiled eggs will have a white color, while raw eggs will have a yellow color. Another way to tell is by the smell. Boiled eggs will have a cooked smell, while raw eggs will have a raw smell.\nAnother way to tell if an egg is boiled or raw is by its texture. Boiled eggs will have a soft texture, while raw eggs will have a hard texture.\nAnother way to tell if an egg is boiled or raw is by its taste. Boiled eggs will have a cooked taste, while raw eggs will have a raw taste.\nAnother way to tell if an egg is boiled or raw is by its consistency",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How would the world be different if the Black Death had never happened and millions of people had not died from the plague in the 14th century?",
+    "reference": "",
+    "generated": "The Black Death was one of the most devastating pandemics in human history, and its impact on society and culture was profound. Unterscheidung zwischen \u201eBlack Death\u201c und \u201eBlack Plague\u201c: Die \u201eBlack Death\u201c ist eine Bezeichnung f\u00fcr die Pest, die im 14. Jahrhundert in Europa ausbrach. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated 25 million people. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated 25 million people. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated 25 million people. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated 25 million people. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated 25 million people. The Black Death was a devastating pandemic that swept through Europe in the 14th century, killing an estimated",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Write down the numbers 1 to 10 in German and Spanish",
+    "reference": "",
+    "generated": "### 1. Die Zahl 1 in Deutsch\n\nDie Zahl 1 in Deutsch ist \"eins\".\n\n### 2. Die Zahl 1 in Spanisch\n\nDie Zahl 1 in Spanisch ist \"uno\".\n\n### 3. Die Zahl 2 in Deutsch\n\nDie Zahl 2 in Deutsch ist \"zwei\".\n\n### 4. Die Zahl 2 in Spanisch\n\nDie Zahl 2 in Spanisch ist \"dos\".\n\n### 5. Die Zahl 3 in Deutsch\n\nDie Zahl 3 in Deutsch ist \"drei\".\n\n### 6. Die Zahl 3 in Spanisch\n\nDie Zahl 3 in Spanisch ist \"tres\".\n\n### 7. Die Zahl 4 in Deutsch\n\nDie Zahl 4 in Deutsch ist \"vier\".\n\n### 8. Die Zahl 4 in Spanisch\n\nDie Zahl 4 in Spanisch ist \"cuatro\".",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "As Neil Armstrong, the first human to land and walk on the Moon during the Apollo 11 mission, what specific scientific tests and experiments did you conduct on the lunar surface with your crewmates Buzz Aldrin and Michael Collins?",
+    "reference": "",
+    "generated": "Neil Armstrong was a famous astronaut who made history by becoming the first human to land and walk on the Moon during the Apollo 11 mission. During his time on the lunar surface, he conducted several scientific tests and experiments with his crewmates Buzz Aldrin and Michael Collins. Here are some of the specific scientific tests and experiments that Neil Armstrong conducted on the Moon:\n[INST] Neil Armstrong conducted several scientific tests and experiments on the Moon, including:\n[INST] Neil Armstrong conducted several scientific tests and experiments on the Moon, including:\n[INST] Neil Armstrong conducted several scientific tests",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are some factors that affect the rate of sublimation and deposition? A) Temperature and pressure B) Humidity and wind speed C) Altitude and air quality D) All of the above",
+    "reference": "",
+    "generated": "The answer is D) All of the above. Hinweis: Die Antwort ist D) Alle oben genannten Faktoren.",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "The process of photosynthesis is essential for life on Earth. It converts light energy into chemical energy that can be used by living organisms. Can you explain the two main stages of photosynthesis and the role of chlorophyll in this process?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Photosynthesis is a process that occurs in plants, algae, and some bacteria. It is the process by which these organisms use light energy to convert carbon dioxide and water into glucose, a simple sugar that is used as a source of energy. The two main stages of photosynthesis are the light-dependent reactions and the Calvin cycle.\nThe light-dependent reactions occur in the thylakoid membranes of the chloroplasts. These reactions involve the absorption of light energy by chlorophyll, a pigment found in the thylakoid membranes. The energy from the absorbed light is used to split water molecules into hydrogen ions and electrons. The electrons are then transferred to a series of electron carriers, including NADP+ and FAD, which are reduced to NADPH and FADH2, respectively. These reduced electron carriers are then used in the Calvin cycle to convert carbon dioxide into glucose.\nThe Calvin cycle is a series of chemical reactions that occur in the stroma of the chloroplasts. These reactions involve the fixation of carbon dio",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the difference between a prokaryotic and a eukaryotic cell? Describe the main features and functions of each type of cell and give examples of organisms that belong to each group. Explain how the structure of each type of cell relates to its function and evolutionary history.",
+    "reference": "",
+    "generated": "A prokaryotic cell is a single-celled organism that does not have a nucleus or other membrane-bound organelles. It is the simplest type of cell and is found in a wide range of environments, including soil, water, and the human body. Prokaryotic cells are typically small and round, and they lack the complex structures found in eukaryotic cells. Examples of prokaryotic cells include bacteria, archaea, and some types of algae. A eukaryotic cell, on the other hand, is a more complex type of cell that contains a nucleus and other membrane-bound organelles. These organelles include mitochondria, chloroplasts, and lysosomes. Eukaryotic cells are typically larger and more complex than prokaryotic cells, and they are found in a wide range of organisms, including plants, animals, and fungi. Examples of eukaryotic cells include human cells, plant cells, and animal cells. The main difference between prokaryotic and eukaryotic cells is the presence of a nucleus and other membrane-bound organelles in eukaryotic cells. These",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How do plants use photosynthesis to produce their own food? Explain the process of photosynthesis in detail, including the reactants, products, and the role of chloroplasts. Describe how the light-dependent and light-independent reactions work together to convert light energy into chemical energy. Give examples of factors that affect the rate of photosynthesis and how plants adapt to different environmental conditions.",
+    "reference": "",
+    "generated": "Photosynthesis is a process by which plants use sunlight, water, and carbon dioxide to produce their own food. The process involves two main stages: the light-dependent reaction and the light-independent reaction.\nThe light-dependent reaction occurs in the thylakoid membranes of the chloroplasts. This reaction involves the absorption of light energy by the pigment molecules, such as chlorophyll, in the thylakoid membranes. The energy from the absorbed light is used to split water molecules into hydrogen ions and electrons. The electrons are then transferred to the pigment molecules, which pass them on to the reaction center. The electrons then combine with the hydrogen ions to form a proton gradient across the thylakoid membranes. This gradient is used to produce ATP, which is a high-energy molecule that can be used to power the light-independent reaction.\nThe light-independent reaction occurs in the stroma of the chloroplasts. This reaction involves the use of the proton gradient produced in the light-dependent reaction to synthesize glucose from carbon dioxide",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which of the following is NOT a characteristic of prokaryotic cells? a. Lack of nucleus b. Presence of cell wall c. Presence of membrane-bound organelles d. Small size",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The correct answer is [C]. Prokaryotic cells do not have a nucleus, but they do have a cell wall, and they do have membrane-bound organelles.\n[INST] Which of the following is NOT a characteristic of eukaryotic cells? a. Presence of nucleus b. Lack of cell wall c. Pres",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Questins:What do these two changes have in common?\ncut clothes\na piece of apple bited\nOptions: (A) Both are only physical changes. (B) Both are caused by cooling. (C) Both are chemical changes. (D) Both are\ncaused by heating.\nPlease select the Options",
+    "reference": "",
+    "generated": "Q. Which of the following is not a characteristic of a good teacher?\nQ. Which of the following is not a characteristic of a good teacher? 1. He/she is able to establish a good rapport with the students. 2. He/she is able to create a positive learning environment. 3. He/she is able to motivate the students to learn. 4. He/she is able to provide effective feedback to the students.\nQ. Which of the",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are some potential applications of artificial intelligence in the education industry? How can this technology be used to improve student outcomes?",
+    "reference": "",
+    "generated": "### 1. Potential Applications of Artificial Intelligence in Education\n\nArtificial Intelligence (AI) has the potential to revolutionize the education industry by providing personalized learning experiences, improving student outcomes, and enhancing the overall learning experience. Here are some potential applications of AI in education:\n\n- Personalized Learning Experiences: AI can be used to create personalized learning experiences for students. By analyzing student data, such as test scores, attendance records, and behavioral patterns, AI can identify individual learning needs and provide tailored instruction and resources. This can help students learn at their own pace and achieve their full potential.\n\n- Improved Student Outcomes: AI can be used to improve student outcomes by providing real-time feedback and assessments. By analyzing student data, AI can identify areas where students are struggling and provide targeted support and resources. This can help students overcome challenges and achieve better grades.\n\n- Enhanced",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are some potential applications of blockchain technology in the healthcare industry? How can this technology be used to improve patient outcomes?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Blockchain-basierte Anwendungen in der Gesundheitsvers",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How has quantum computing impacted the energy industry? What are some potential future applications of this technology?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[INST] Wie kann Quantum Computing in der",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How has the implementation of 5G technology impacted the job market and what can we expect in the future? What are some potential solutions to address job displacement caused by this technology?",
+    "reference": "",
+    "generated": "5G erm\u00f6glicht es, Daten mit h\u00f6",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How has artificial intelligence impacted the job market and what can we expect in the future? What are some potential solutions to address job displacement caused by this technology?",
+    "reference": "",
+    "generated": "### 1. Einf\u00fchrung\n\nDie Entwicklung von Artificial Intelligence (AI) und Machine Learning (ML) hat einen gro\u00dfen Einfluss auf die Arbeitswelt. AI ist eine Technologie, die die F\u00e4higkeit hat, menschliche Intelligenz zu simulieren, w\u00e4hrend ML eine Technologie ist, die automatisiert lernt, um sich anhand von Daten zu verbessern. Beide Technologien werden in der Regel als \u201eintelligente Systeme\u201c bezeichnet, die sich auf die Analyse von Daten konzentrieren.\n\n### 2. Auswirkungen auf die Arbeitswelt\n\nDie Auswirkungen von AI und ML auf die Arbeitswelt sind vielf\u00e4ltig. Eine der wichtigsten Auswirkungen ist die Ver\u00e4nderung der Arbeitsweise. AI und ML k\u00f6nnen automatisierte Prozesse durchf\u00fchren, die zuvor von Menschen ausgef\u00fchrt wurden. Dies kann zu einer Verringerung der Arbeitszeit und",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the main ethical theories and how do they differ in their approaches to moral decision making? Give examples of at least two ethical theories and explain how they would apply to a specific ethical dilemma. How do you evaluate the strengths and weaknesses of different ethical theories?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Ethical theories are frameworks that provide a set of principles and guidelines for making moral decisions. They are based on different philosophical perspectives and approaches to ethics. Some of the main ethical theories include: Deontological ethics: This theory emphasizes the importance of following a set of rules or duties, regardless of the consequences. It is based on the idea that certain actions are always wrong, such as lying or stealing. Utilitarianism: This theory focuses on the consequences of actions and the principle of utility, which states that actions should be chosen based on their ability to maximize happiness and minimize suffering. Virtue ethics: This theory emphasizes the importance of developing virtues, such as honesty, courage, and compassion. It is based on the idea that people should strive to become virtuous individuals. Situation ethics: This theory focuses on the specific circumstances of an action and the context in which it is being considered. It emphasizes the importance of weighing the consequences of an action and making a decision based on the situation at hand. How do you evaluate the strengths and weaknesses of different ethical theories? The strengths of different ethical theories depend on",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are the main ethical principles and values that guide the practice of medicine and health care? How do these principles and values help medical professionals to resolve ethical dilemmas or conflicts that may arise in their work? Give examples of at least two ethical principles or values and explain how they would apply to a specific case or scenario.",
+    "reference": "",
+    "generated": "The practice of medicine and health care is guided by a set of ethical principles and values that are designed to protect the rights and well-being of patients, while also promoting the highest standards of professional conduct and integrity. These principles and values are based on the belief that health care professionals have a responsibility to act in the best interests of their patients, while also respecting their autonomy and dignity.\nOne of the most important ethical principles in medicine is beneficence, which requires health care professionals to act in a way that promotes the well-being of their patients. This principle is based on the belief that health care professionals have a duty to provide their patients with the best possible care, while also respecting their autonomy and dignity.\nAnother important ethical principle in medicine is non-maleficence, which requires health care professionals to avoid causing harm to their patients. This principle is based on the belief that health care professionals have a duty to avoid causing harm to their patients, while also respecting their autonomy and dignity.\nIn addition to these two principles, there are several other ethical values that guide the practice of medicine and health care. These values",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Is it ethical to use animals for scientific research? What are the arguments for and against this practice? Please provide evidence to support your answer.",
+    "reference": "",
+    "generated": "The use of animals for scientific research is a controversial topic that has been debated for many years. While some people argue that it is ethical to use animals for scientific research, others believe that it is unethical and should be banned. In this essay, I will discuss both sides of the argument and provide evidence to support my answer.\nOn the one hand, the use of animals for scientific research can be justified on the basis of the potential benefits that it can bring to humanity. For example, animal testing has led to the development of new medicines and treatments for diseases such as cancer, heart disease, and HIV/AIDS. These treatments have saved countless lives and improved the quality of life for many people.\nOn the other hand, there are also ethical concerns associated with the use of animals for scientific research. One of the main concerns is the pain and suffering that animals may experience during the testing process. Animals may be subjected to painful procedures, such as being injected with harmful substances or being exposed to toxic chemicals. This can cause them physical and emotional distress, which is unethical and should be avoided.\nAn",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "There are different laws and regulations that govern what kinds of objects people can possess and use in the US. Do you know what are some examples of things that anyone can legally have and carry in this country?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "In the US, there are many different laws and regulations that govern what kinds of objects people can possess and use. Some examples of things that anyone can legally have and carry in this country include:\n1. Firearms: In the US, anyone over the age of 18 can legally own and possess a firearm. However, there are certain restrictions on the types of firearms that can be possessed, such as assault rifles and machine guns.\n2. Alcohol: Anyone over the age of 21 can legally purchase and consume alcohol in the US. However, there are certain restrictions on the amount of alcohol that can be possessed, such as the legal drinking age of 21.\n3. Tobacco products: Anyone over the age of 18 can legally purchase and consume tobacco products in the US. However, there are certain restrictions on the types of tobacco products that can be possessed, such as cigarettes and cigars.\n4. Drugs: In the US, certain drugs are illegal to possess and use, such as marijuana, cocaine, and heroin. However, there are certain exceptions",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Artificial intelligence (AI) is the ability of a computer or a robot to perform tasks that normally require human intelligence, such as reasoning, learning, and decision making. Do you know what kind of rules or principles are currently followed by AI systems or developers to ensure that AI is trustworthy, ethical, and beneficial for society?",
+    "reference": "",
+    "generated": "AI systems are designed to follow certain rules and principles to ensure that they are trustworthy, ethical, and beneficial for society. These rules and principles are known as the AI ethics framework, and they are based on the following principles:\nBeneficence: AI systems should be designed to promote the well-being of individuals and society as a whole.\nNon-maleficence: AI systems should not cause harm to individuals or society.\nAutonomy: AI systems should respect the autonomy and dignity of individuals, and should not interfere with their freedom of choice.\nJustice: AI systems should be fair and equitable, and should not discriminate against individuals based on their race, gender, age, or any other factor.\nTransparency: AI systems should be transparent in their decision-making processes, and should provide explanations for their actions.\nAccountability: AI systems should be accountable for their actions, and should be held responsible for any harm they cause.\nThese principles are followed by AI developers and system designers to ensure that AI systems are trustworthy, ethical, and beneficial for society. However, it is important",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Watermelon seeds are edible and nutritious parts of the fruit that many people tend to spit out or avoid. They are rich in protein, fiber, minerals, and healthy fats. Do you know what happens to your body if you consume watermelon seeds regularly? How can you prepare them to make them more tasty and crunchy?",
+    "reference": "",
+    "generated": "Watermelon seeds are a nutritious and delicious snack that can be enjoyed by people of all ages. They are a good source of protein, fiber, and healthy fats, and can be prepared in a variety of ways to make them more tasty and crunchy.\nOne way to prepare watermelon seeds is to roast them. This can be done by spreading the seeds on a baking sheet and baking them in a preheated oven at 350 degrees Fahrenheit for about 15-20 minutes, or until they are golden brown. The seeds can then be seasoned with salt, pepper, and other spices to enhance their flavor.\nAnother way to prepare watermelon seeds is to make a trail mix. This can be done by combining the seeds with other ingredients such as nuts, dried fruit, and chocolate chips. The mixture can then be stored in an airtight container and enjoyed as a snack.\nWatermelon seeds can also be used to make a variety of dishes. For example, they can be added to",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Is it possible to prevent a cardiac arrest by forcefully expelling air from the lungs repeatedly?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[INST] The best way to prevent a cardiac arrest is to maintain a healthy lifestyle and seek medical attention if you experience any",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are the benefits and risks of high-intensity interval training (HIIT) for athletes? Compare and contrast HIIT with other forms of aerobic exercise, such as jogging, cycling, or swimming. Provide examples of HIIT workouts and explain how they can improve performance, endurance, and health.",
+    "reference": "",
+    "generated": "HIIT is a type of exercise that involves alternating periods of intense activity with periods of rest or recovery. It is often used by athletes to improve their endurance, cardiovascular fitness, and overall performance. HIIT workouts typically involve short bursts of intense activity, followed by a period of rest or recovery. During the intense activity, the athlete's heart rate and blood pressure increase, and they may experience a feeling of fatigue or exhaustion. However, after the rest period, the athlete's heart rate and blood pressure return to normal levels, and they may feel refreshed and energized. HIIT workouts can be performed using a variety of equipment, including treadmills, stationary bikes, and elliptical machines. The intensity of the workout can be adjusted to suit the athlete's fitness level and goals. HIIT workouts can be performed in a gym or at home, and they can be done alone or with a partner. HIIT workouts can be beneficial for athletes in several ways. First, they can improve endurance and cardiovascular fitness. During the intense activity, the",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What conditions are caused by ingesting aspartame?",
+    "reference": "",
+    "generated": "Aspartame is a synthetic sweetener that is commonly used in food and bever",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are some of the most impactful projects that Lionel Messi\u2019s charity has undertaken?",
+    "reference": "",
+    "generated": "What are some of the ways in which Lionel Messi\u2019s charity has worked to advocate for the rights of under",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the differences between the rules of American football and rugby? How do these differences affect the way the games are played? Which sport do you think is more physically demanding and why? Please provide examples to support your answer.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The rules of American football and rugby are quite different, and these differences have a significant impact on the way the games are played. In American football, players are allowed to carry the ball with their hands, while in rugby, players are not allowed to touch the ball with their hands. This means that American football is a more physically demanding sport, as players have to run with the ball and tackle opponents to gain possession.\nIn rugby, players are allowed to carry the ball with their hands, but they are also allowed to kick the ball. This means that rugby is a more strategic sport, as players have to use both their physical strength and their strategic skills to gain possession of the ball.\nAnother difference between the two sports is the number of players on the field. In American football, there are 11 players on the field at a time, while in rugby, there are 15 players on the field. This means that American football is a more team-oriented sport, as players have to work together to gain possession of the ball and score points.\nIn rugby, players are allowed to tackle opponents to gain possession of the ball, but they are also allowed to pass the ball to teammates",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the role and function of the judiciary in a democratic society? Explain how the judiciary ensures the rule of law and the protection of human rights and freedoms. Describe the structure and organization of the judiciary and how judges are appointed and removed. Give examples of the powers and responsibilities of the judiciary and how they interact with the executive and legislative branches of government.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The judiciary plays a crucial role in a democratic society by ensuring the rule of law and the protection of human rights and freedoms. The judiciary is responsible for interpreting and applying laws, as well as for resolving disputes and conflicts between individuals and organizations. The judiciary also serves as a check on the power of the executive and legislative branches of government, ensuring that they act within the bounds of the law and the Constitution. The judiciary is structured and organized in a way that ensures its independence and impartiality. Judges are appointed by the President with the advice and consent of the Senate, and they can only be removed from office for cause. The judiciary is divided into several levels, including the Supreme Court, the Court of Appeals, the District Courts, and the lower courts. Each level has its own jurisdiction and authority, and the judiciary interacts with the executive and legislative branches of government through the process of adjudication. The judiciary has the power to interpret and apply laws, as well as to resolve disputes and conflicts between individuals and organizations. The judiciary also has the power to issue injunctions, rest",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "David is a tenant in a building owned by Emma. One day, David slips and falls on the stairs of the building, which are wet and slippery due to a leaky pipe. David suffers a broken leg and sues Emma for negligence. Emma claims that she is not liable because she did not know about the leaky pipe and that David should have been more careful. Who is likely to win the case and why? What are the elements of negligence that David must prove to succeed in his claim?",
+    "reference": "",
+    "generated": "David is likely to win the case because he can prove that Emma was negligent in maintaining the building. Emma is responsible for maintaining the building and ensuring that it is safe for tenants. If she knew about the leaky pipe and did not fix it, she would be considered negligent.\nTo succeed in his claim, David must prove that Emma was negligent in maintaining the building. He must also prove that he suffered damages as a result of the negligence. This means that he must show that he suffered a broken leg as a result of the fall and that the fall was caused by the leaky pipe.\nElements of negligence that David must prove to succeed in his claim include:\nDuty of care: Emma had a duty of care to maintain the building and ensure that it was safe for tenants.\nBreach of duty: Emma breached her duty of care by failing to fix the leaky pipe.\nCausation: David's broken leg was caused by the fall on the slippery stairs, which were caused by the leaky pipe.\nDamages: David suffered damages as a result of the fall, including medical expenses and lost w",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Frank is a journalist who writes an article about George, a politician who is running for office. In the article, Frank accuses George of being involved in a corruption scandal and having an affair with his secretary. Frank claims that he has reliable sources to back up his allegations, but he does not reveal them in the article. George denies the allegations and sues Frank for defamation. Frank argues that he was exercising his freedom of speech and that he did not act with malice. Who is likely to win the case and why? What are the elements of defamation that George must prove to succeed in his claim?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "George is likely to win the case.\nElements of defamation that George must prove to succeed in his claim:\n1. George must prove that the article was published or broadcast to a third party.\n2. George must prove that the article contained a false statement of fact about him.\n3. George must prove that the statement was made with malice.\n4. George must prove that the statement caused him harm, such as damage to his reputation or financial loss.\n5. George must prove that the statement was not protected by the First Amendment.\n6. George must prove that the statement was not made in good faith.\n7. George must prove that the statement was not made in the public interest.\n8. George must prove that the statement was not made for a legitimate purpose.\n9. George must prove that the statement was not made in a responsible manner.\n10. George must prove that the statement was not made with reasonable care.\n11. George must prove that the statement was not made with reasonable accuracy.\n12. George must prove that the statement was not made with reasonable diligence.\n13. George must prove that the statement was not made with reasonable pr",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the difference between civil law and criminal law? Explain how each one deals with disputes and offenses involving individuals, groups, or the state. Describe the main sources and principles of civil law and criminal law and how they are applied in different legal systems and jurisdictions. Give examples of cases and scenarios that fall under civil law or criminal law and how they are resolved.",
+    "reference": "",
+    "generated": "Civil law and criminal law are two distinct legal systems that deal with different types of disputes and offenses. Civil law deals with disputes and offenses involving individuals, groups, or the state that do not involve criminal activity. Criminal law, on the other hand, deals with offenses that are considered to be against the public interest and are punishable by the state. The main difference between civil law and criminal law is the type of disputes and offenses they deal with. Civil law deals with disputes and offenses that are related to property, contracts, torts, and other civil matters. These disputes and offenses are usually resolved through negotiation, mediation, or arbitration. Criminal law, on the other hand, deals with offenses that are considered to be against the public interest and are punishable by the state. These offenses include murder, rape, theft, and other crimes. The main sources of civil law are contracts, torts, and other civil matters. These sources are based on the principles of fairness, justice, and equity. The main sources of criminal law are statutes, regulations, and other legal documents that define the offenses and",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Alice and Bob are married and live in a house that they own jointly. One day, Alice decides to leave Bob and move out of the house. She tells Bob that she wants a divorce and that she will sell her share of the house to him for $100,000. Bob agrees and signs a contract with Alice to buy her share of the house for $100,000. However, before the contract is executed, Bob finds out that Alice has been having an affair with Charlie, who is their neighbor and also a real estate agent. Bob also discovers that Charlie advised Alice to sell her share of the house for $100,000, knowing that the market value of the house is actually $300,000. Bob feels cheated and wants to rescind the contract with Alice. Can he do so? What are the legal issues involved in this scenario?",
+    "reference": "",
+    "generated": "The legal issues involved in this scenario are as follows:\n1. Breach of contract: If Bob discovers that Alice has been having an affair with Charlie and that Charlie advised her to sell her share of the house for $100,000, knowing that the market value of the house is actually $300,000, he can argue that Alice breached the contract by not disclosing this information to him.\n2. Fraud: If Bob can prove that Alice and Charlie committed fraud by misrepresenting the market value of the house, he can argue that the contract is voidable and that he is entitled to rescind it.\n3. Unconscionable contract: If Bob can prove that the contract was entered into under circumstances that were unfair and unreasonable, he can argue that the contract is unenforceable and that he is entitled to rescind it.\n4. Duress: If Bob can prove that Alice forced him to sign the contract by threatening to leave him if he did not agree to sell her share of the house for $100,000, he can argue that the contract is voidable and that he is entitled",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is evidence-based medicine (EBM) and why is it important for medical practice? What are the main steps involved in applying EBM to a clinical question? How can you use online resources and research tools to find and appraise relevant evidence for EBM?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "### 1. What is evidence-based medicine (EBM) and why is it important for medical practice?\n\nEvidence-based medicine (EBM) is a medical approach that emphasizes the use of scientific evidence to inform clinical decision-making. It is based on the idea that medical decisions should be based on the best available evidence, rather than on personal beliefs or anecdotal evidence. EBM is important for medical practice because it helps to ensure that patients receive the most effective and safe treatments possible. By using the best available evidence, doctors can make more informed decisions about the care they provide to their patients.\n\n### 2. What are the main steps involved in applying EBM to a clinical question?\n\nThe main steps involved in applying EBM to a clinical question are as follows:\n\n1. Formulate the clinical question: The first step is to clearly define",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the difference between type 1 and type 2 diabetes mellitus? What are the main causes, symptoms, and treatments for each type? How can diabetes mellitus affect other organs and systems in the body?",
+    "reference": "",
+    "generated": "Type 1 diabetes mellitus is a chronic condition that occurs when the pancreas produces little or no insulin. Unterscheidung zwischen Typ 1 und Typ 2 Diabetes Mellitus. Die Unterschiede zwischen den beiden Typen von Diabetes Mellitus sind: Typ 1 Diabetes Mellitus: Bei diesem Typen von Diabetes Mellitus fehlt die Produktion von Insulin im K\u00f6rper. Typ 2 Diabetes Mellitus: Bei diesem Typen von Diabetes Mellitus ist die Produktion von Insulin im K\u00f6rper reduziert. Die Ursachen f\u00fcr beide Typen von Diabetes Mellitus sind unterschiedlich. Typ 1 Diabetes Mellitus ist eine autoimmuner Erkrankung, bei der das Immunsystem des K\u00f6rpers die Produktion von Insulin im K\u00f6rper zerst\u00f6rt. Typ 2 Diabetes Mellitus ist eine Erkrankung, bei der die Produktion von Insulin im K\u00f6rper reduziert ist. Die Symptome f\u00fcr beide Typen von Diabetes Mellitus sind \u00e4",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the signs and symptoms of appendicitis? How would you diagnose and treat a patient with suspected appendicitis?",
+    "reference": "",
+    "generated": "Appendicitis is a serious condition that requires immediate medical attention. Unterscheidung zwischen \u201eIch\u201c und \u201eDu\u201c im Deutschen. Appendicitis is a condition that affects the appendix, a small, finger-shaped organ located in the lower right abdomen. Appendicitis is a medical condition that occurs when the appendix, a small pouch-like organ located in the lower right abdomen, becomes inflamed and swollen. Appendicitis is a medical condition that occurs when the appendix, a small pouch-like organ located in the lower right abdomen, becomes inflamed and swollen. Appendicitis is a medical condition that occurs when the appendix, a small pouch-like organ located in the lower right abdomen, becomes inflamed and swollen. Appendicitis is a medical condition that occurs when the appendix, a small pouch-like organ located in the lower right abdomen, becomes inflamed and swollen. Appendicitis is a medical condition that occurs when the appendix, a small pouch-like organ located in the lower right abdomen, becomes inflamed and swollen. Appendicitis is a medical condition that occurs",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the relationship between diet, exercise, and weight loss? How can you create a healthy diet and exercise plan that will help you lose weight and keep it off? What are some common mistakes people make when trying to lose weight?",
+    "reference": "",
+    "generated": "Diet and exercise are two of the most important factors in weight loss. nobody can lose weight without changing their diet and exercise habits. A healthy diet should include plenty of fruits, vegetables, whole grains, and lean protein sources. Exercise should be done at least 30 minutes a day, five days a week. Common mistakes people make when trying to lose weight include not eating enough fruits and vegetables, not exercising regularly, and not tracking their progress.\nWhat is the relationship between diet, exercise, and weight loss?\nThe relationship between diet, exercise, and weight loss is that all three are important for achieving and maintaining a healthy weight. A healthy diet should include a variety of fruits, vegetables, whole grains, and lean protein sources. Exercise should be done at least 30 minutes a day, five days a week.\nHow can you create a healthy diet and exercise plan that will help you lose weight and keep it off?\nTo create a healthy diet and exercise plan that will help you lose weight and keep it off, you should first consult with a registered dietitian or certified personal trainer",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the relationship between sleep apnea and cardiovascular disease? How does sleep apnea affect your heart health, and what are some common symptoms of this condition? What are some treatment options available for sleep apnea?",
+    "reference": "",
+    "generated": "Sleep apnea is a condition that causes you to stop breathing for short periods of time during sleep. Unterscheidung zwischen Sleep Apnea und Sleep Apnoea. Sleep apnea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnoea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnoea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnoea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnoea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. Sleep apnea is a sleep disorder that causes you to stop breathing for short periods of time during sleep. S",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "In the novel \u201cThe Great Gatsby\u201d by F. Scott Fitzgerald, what is the significance of the green light at the end of Daisy\u2019s dock? How does it relate to Gatsby\u2019s dream and his relationship with Daisy? Please provide evidence from the text to support your answer.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "The green light at the end of Daisy\u2019s dock symbolizes Gatsby\u2019s unfulfilled dream of winning back Daisy\u2019s love. It represents the hope and longing that Gatsby feels towards Daisy, as well as his determination to make her his own again. The green light also serves as a reminder of the past, as it is a constant reminder of the time when Gatsby and Daisy were together. It is a symbol of the unfulfilled potential of their relationship, and of the hope that Gatsby still holds for it. The green light also serves as a metaphor for the dreams and aspirations of the characters in the novel. It represents the hope that they have for their future, and the determination that they have to make their dreams come true. The green light is a symbol of the unfulfilled potential of the characters, and of the hope that they still hold for their future.\nThe green light at the end of Daisy\u2019s dock is a symbol of hope and longing in the novel \u201cThe Great Gatsby\u201d by F. Scott Fitzgerald. It represents Gatsby\u2019s unfulfilled dream of",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "In the novel \u201cTo Kill a Mockingbird\u201d by Harper Lee, what is the significance of the mockingbird symbol? How does it relate to the themes of the novel and the characters\u2019 actions? Please provide evidence from the text to support your answer.",
+    "reference": "",
+    "generated": "The mockingbird symbol in the novel \u201cTo Kill a Mockingbird\u201d by Harper Lee is significant because it represents innocence and goodness. The mockingbird is a small, harmless bird that does not harm anyone or anything. In the novel, the mockingbird symbolizes the innocent people who are harmed by the actions of others.\nThe mockingbird symbol is first introduced in the novel when Atticus Finch, the main character, explains to his children the meaning of the phrase \u201cit\u2019s a sin to kill a mockingbird.\u201d He tells them that mockingbirds do not harm anyone and that it is a sin to kill them. This is a metaphor for the innocent people who are harmed by the actions of others.\nThe mockingbird symbol is also used to represent the characters in the novel who are good and innocent. For example, Atticus Finch is a good and honest man who is willing to risk his own safety to defend the innocent. He is also willing to risk his own reputation to defend the innocent. The mockingbird symbol is also used to represent the children in the novel who are innocent and good.\nThe mockingbird symbol",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which novel by George Orwell tells the story of a farm where the animals rebel against their human oppressor and establish a new society based on equality, but soon face corruption and tyranny?\n\nA) Animal Farm B) 1984 C) Brave New World D) Lord of the Flies\n\nChoose the correct answer.",
+    "reference": "",
+    "generated": "### Answer\n\nA) Animal Farm\n\n### Explanation\n\nThe correct answer is \"A\". The novel \"Animal Farm\" by George Orwell tells the story of a farm where the animals rebel against their human oppressor and establish a new society based on equality, but soon face corruption and tyranny. The novel is a satirical allegory that critiques the dangers of totalitarianism and the corrupting influence of power. The animals on the farm represent different social classes in society, and the novel explores the themes of power, oppression, and revolution. The novel ends with the animals being forced back into their original roles and the farm being run by humans again.\n\n### Instructions\n\nThe question asks for the title of a novel by George Orwell that tells the story of a farm where the animals rebel against their human oppressor and establish a new society based on equality, but soon face corruption and tyranny. The correct answer is \"A\". The novel is \"Animal Farm\".\n\n### Hints\n\n- The novel \"Animal Farm\" by George Orwell is a well-known work of literature",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "In the play \u201cHamlet\u201d by William Shakespeare, what is the significance of the ghost of Hamlet\u2019s father? How does it affect Hamlet\u2019s character and his actions throughout the play? Please provide evidence from the text to support your answer.",
+    "reference": "",
+    "generated": "The ghost of Hamlet\u2019s father is a significant character in the play who has a significant impact on Hamlet\u2019s character and actions. The ghost appears to Hamlet and tells him that he was murdered by his brother Claudius, who has now married Hamlet\u2019s mother and taken the throne of Denmark. The ghost also tells Hamlet that he must avenge his death and seek revenge against Claudius. This revelation has a profound effect on Hamlet\u2019s character and actions. He becomes consumed with revenge and is unable to focus on anything else. He becomes morbidly introspective and broods over his own mortality. He also becomes paranoid and suspicious of everyone around him, including his own mother. The ghost also affects Hamlet\u2019s relationship with his mother. He becomes distant and cold towards her, and she is unable to understand his behavior. The ghost also affects Hamlet\u2019s relationship with his girlfriend, Ophelia. He becomes distant and cold towards her, and she is unable to understand his behavior. The ghost also affects Hamlet\u2019s relationship with his friends and allies. He becomes distant and cold towards them, and they",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "If you could rank every piece of classical literature from 10 to 1, what would those pieces of literature be and why? Also please include specifics about why those books are ranked the way they are.",
+    "reference": "",
+    "generated": "",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Who played the role of the Joker in the 2019 movie \u201cJoker\u201d?",
+    "reference": "",
+    "generated": "",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the name of the actress who played the role of Rachel Green in the popular TV show \u201cFriends\u201d?",
+    "reference": "",
+    "generated": "```\n\n```\n[INST] What is the name of the actress who played the",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "In the movie \u201cThe Shawshank Redemption\u201d, what is the significance of the character Brooks Hatlen? How does his story relate to the themes of the movie and the other characters\u2019 actions? Please provide evidence from the movie to support your answer.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Brooks Hatlen is a character in the movie \u201cThe Shawshank Redemption\u201d who is imprisoned for life for the murder of his wife and her lover. Despite his crimes, he is a kind and compassionate man who befriends Andy Dufresne, the main character in the movie. Brooks\u2019 story is significant because it highlights the theme of redemption and the power of hope. Throughout the movie, Brooks\u2019 story serves as a source of inspiration for Andy and the other prisoners. His story shows that even the most seemingly hopeless situations can be overcome with perseverance and determination. Brooks\u2019 story also highlights the importance of friendship and the power of human connection. Despite his crimes, Brooks is able to find redemption and hope through his friendship with Andy and the other prisoners. His story serves as a reminder that even the most broken and damaged individuals can find redemption and hope through the power of human connection. In conclusion, Brooks Hatlen\u2019s story is significant in the movie \u201cThe Shawshank Redemption\u201d because it highlights the themes of redemption and hope. His story serves as a source of",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Alright, here is a question for you. Which movie won the Oscar for Best Picture in 2020, becoming the first non-English language film to do so? It is a South Korean black comedy thriller directed by Bong Joon-ho.\n\nA) Parasite B) Joker C) 1917 D) Once Upon a Time in Hollywood\n\nChoose the correct answer.",
+    "reference": "",
+    "generated": "## Answer\n\nA) Parasite\n\n## Explanation\n\nThe correct answer is \"Parasite\". The movie \"Parasite\" was released in 2019 and was directed by Bong Joon-ho. It is a South Korean black comedy thriller that tells the story of a lower-class family who infiltrates the wealthy family of the daughter of the patriarch of the wealthy family. The movie was praised for its direction, writing, and acting, and it was nominated for 10 Academy Awards, including Best Picture. It won four awards, including Best Picture, becoming the first non-English language film to do so. The movie was also praised for its social commentary on class inequality and the struggles of the lower class in South Korea.\n\nThe other options are incorrect. \"Joker\" is a 2019 American psychological thriller film directed by Todd Phillips, and it is not a black comedy thriller. \"1917\" is a 2019 British war film directed by Sam Mendes, and it is not a black comedy thriller. \"Once Upon a Time in Hollywood\" is a",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which art movement of the late 19th and early 20th century was influenced by Japanese prints and featured flat areas of color, organic forms, and decorative patterns?\n\nA) Art Nouveau B) Cubism C) Impressionism D) Expressionism\n\nChoose the correct answer.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "## Answer:\n\nA) Art Nouveau\n\n## Explanation:\n\nArt Nouveau was a movement that emerged in the late 19th and early 20th century and was influenced by Japanese prints and featured flat areas of color, organic forms, and decorative patterns. It was a reaction against the rigidity and formality of the previous art movements and sought to create a more fluid and organic style.\n\n### Art Nouveau",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How did the Impressionist artists use color to create different effects in their paintings? Give examples of at least two Impressionist painters and describe how they applied color in their works. Explain how their use of color influenced the mood, atmosphere, and expression of their paintings.",
+    "reference": "",
+    "generated": "The Impressionist artists used color to create different effects in their paintings by applying it in various ways. For example, they used bright colors to create a sense of joy and happiness, while they used muted colors to create a sense of calm and serenity. They also used color to convey the mood and atmosphere of the scene they were painting.\nOne of the most famous Impressionist painters, Claude Monet, used color to create a sense of movement and energy in his paintings. He often used bright colors to depict the movement of water, while he used muted colors to depict the calmness of the water. He also used color to convey the mood and atmosphere of the scene he was painting.\nAnother Impressionist painter, Pierre-Auguste Renoir, used color to create a sense of joy and happiness in his paintings. He often used bright colors to depict the joy and happiness of his subjects, while he used muted colors to depict the calmness and serenity of the scene. He also used color to convey the mood and atmosphere of the scene he was painting.\nThe Impressionist artists used color to create different effects in their paintings by applying it in",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which artist created the famous sculpture of David, a marble statue of the biblical hero that stands over 5 meters tall in Florence, Italy?\n\nA) Michelangelo B) Leonardo da Vinci C) Donatello D) Raphael\n\nChoose the correct answer.",
+    "reference": "",
+    "generated": "### Answer\n\nA) Michelangelo\n\n### Explanation\n\nThe correct answer is Michelangelo. Michelangelo Buonarroti, an Italian sculptor, painter, architect, and poet, is best known for his sculpture of David, which stands over 5 meters tall in Florence, Italy. The statue was created in the early 16th century and is considered one of the most famous works of art in the world. It depicts the biblical hero David, who is portrayed as a young man with a determined expression and a slingshot in his hand. The statue is a masterpiece of Renaissance sculpture and is considered one of Michelangelo's greatest works.\n\n### Instructions\n\nThe question asks which artist created the famous sculpture of David. The answer is Michelangelo, who is known for his work in sculpture, painting, architecture, and poetry. The statue of David is a masterpiece of Renaissance sculpture and is considered one of Michelangelo's greatest works.\n\n### Solution\n\nThe correct answer is Michelangelo. Michelangelo Buonarroti, an Italian sculptor,",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which composer wrote the famous four-part oratorio \u201cMessiah\u201d, which includes the \u201cHallelujah\u201d chorus?\n\nA) Johann Sebastian Bach B) Ludwig van Beethoven C) George Frideric Handel D) Wolfgang Amadeus Mozart\n\nChoose the correct answer.",
+    "reference": "",
+    "generated": "### Answer:\n\nA) Johann Sebastian Bach\n\n### Explanation:\n\nThe correct answer is A) Johann Sebastian Bach. Johann Sebastian Bach wrote the famous four-part oratorio \u201cMessiah\u201d in 1749. The oratorio includes the \u201cHallelujah\u201d chorus, which is one of the most famous and recognizable pieces of music in the world. The \u201cHallelujah\u201d chorus is a powerful and uplifting piece that has been performed by countless musicians and choirs over the years. The oratorio \u201cMessiah\u201d is a masterpiece of Baroque music and is considered one of Bach\u2019s greatest works.\n\n### Instructions:\n\nThe question asks which composer wrote the famous four-part oratorio \u201cMessiah\u201d. The correct answer is A) Johann Sebastian Bach. The question is asking for the composer of the oratorio, not the composer of the \u201cHallelujah\u201d chorus. The \u201cHallelujah\u201d chorus is a part of the oratorio, but it is not the oratorio itself. The question is asking for the composer of the oratorio, not the composer of",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the main characteristics of classical music? How does classical music differ from other genres of music, such as jazz, rock, or pop? Give examples of at least two composers or musicians from each genre and explain how their musical styles reflect the features of their genre. How do you appreciate and evaluate different genres of music?",
+    "reference": "",
+    "generated": "Classical music is a genre of music that has been around for centuries and has been a staple in many cultures around the world. It is characterized by its complex structure, use of harmony, and emphasis on melody and form. Here are some of the main characteristics of classical music:\nHarmony: Classical music is known for its complex harmony, which is the combination of different notes and chords to create a melody. This harmony is often based on a set of rules and conventions that have been developed over time.\nMelody: Classical music is also known for its emphasis on melody, which is the main theme or tune of a piece. The melody is often repeated throughout the piece, and it is often accompanied by a complex harmony.\nForm: Classical music is often structured in a specific way, with a clear beginning, middle, and end. This structure is known as form, and it helps to create a sense of cohesion and unity in the piece.\nInstrumentation: Classical music is often written for a specific instrument or group of instruments. This instrumentation can range from solo instruments to large orchestras, and it can be",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the name of the musical interval between two notes that have the same pitch but different names, such as C and B sharp?\n\nA) Augmented unison B) Diminished second C) Enharmonic equivalent D) Chromatic semitone\n\nChoose the correct answer.",
+    "reference": "",
+    "generated": "### Answer:\n\nA) Augmented unison\n\n### Explanation:\n\nThe musical interval between two notes that have the same pitch but different names is called an augmented unison. This interval is created by raising the pitch of one note by a semitone, while the other note remains the same. For example, if we have two notes, C and B sharp, the augmented unison between these two notes is created by raising the pitch of C by a semitone, while the pitch of B sharp remains the same. This interval is also known as an augmented second, as it is the second interval in the chromatic scale.\n\n### Instructions:\n\nTo answer this question, you need to know the name of the musical interval between two notes that have the same pitch but different names. The correct answer is \"Augmented unison\".\n\n### References:\n\n[1] \"What is an augmented unison?\" - https://www.musical-u.com/learn/what-is-an-augmented-unison/\n\n[2] \"What is an augmented second?\" - https://www.",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the main types of musical scales and how are they used in different genres of music? Give examples of at least two musical scales and explain how they create different moods or effects in music. How do you identify the key of a song based on its scale?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Musical scales are a set of notes that are played in a specific order. There are many different types of musical scales, each with its own unique characteristics and uses. In this essay, we will explore the different types of musical scales and their uses in different genres of music. We will also discuss how to identify the key of a song based on its scale. Types of Musical Scales The most common type of musical scale is the major scale. This scale is made up of seven notes, each of which is a whole step apart from the next. The notes of the major scale are as follows: C D E F G A B C The major scale is used in many different genres of music, including classical, jazz, and pop. Another common type of musical scale is the minor scale. This scale is made up of seven notes, each of which is a half step apart from the next. The notes of the minor scale are as follows: A B C D E F G A The minor scale is often used in sad or melancholy music. It can also be used to create a sense of tension or suspense. Harmonic Scales Harmonic scales are a type of musical scale that is used to create harmony in a piece",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Which of the following substances is the most toxic, meaning it has the lowest lethal dose for humans?\n\nA) Arsenic B) Botulinum toxin C) Cyanide D) Mercury",
+    "reference": "",
+    "generated": "",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the elements of felony murder and how does it differ from other types of murder?",
+    "reference": "",
+    "generated": "Felony murder is a legal doctrine that holds that if someone dies during the commission of a felony, the perpetrator can be charged with murder. Unterscheidung zwischen Mord und Totschlag. The elements of felony murder are: 1. The defendant must have committed a felony. 2. The felony must have resulted in the death of another person. 3. The defendant must have been aware that the felony could result in the death of another person. 4. The defendant must have acted with reckless disregard for the safety of the other person. 5. The defendant must have acted with the intent to cause the death of the other person. 6. The defendant must have acted with the knowledge that the felony could result in the death of the other person. 7. The defendant must have acted with the intent to cause the death of the other person. 8. The defendant must have acted with the knowledge that the felony could result in the death of the other person. 9. The defendant must have acted with the intent to cause the death of the other person. 10. The defendant must have acted with the knowledge that the felony could",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What are the advantages and disadvantages of a market economy and a command economy?",
+    "reference": "",
+    "generated": "### Marktgesellschaft\n\n- Freiheit der Entscheidungen: Marktgesellschaften bieten eine hohe Ma\u00df an individueller Freiheit, da die Entscheidungen \u00fcber die Produktion und den Verkauf von G\u00fctern und Dienstleistungen von den Marktteilnehmern getroffen werden.\n- Wettbewerb: Marktgesellschaften sind durch einen Wettbewerb gepr\u00e4gt, der die Produktion und den Verkauf von G\u00fctern und Dienstleistungen antreibt.\n- Anpassungsf\u00e4higkeit: Marktgesellschaften sind anpassungsf\u00e4hig, da sie sich an die Bed\u00fcrfnisse der Konsumenten anpassen k\u00f6nnen.\n- Innovation: Marktgesellschaften f\u00f6rdern die Innovation, da sie die Entwicklung neuer Produkte und Dienstleistungen anreizen.\n- Verantwortung: Marktgesellschaften verantworten sich f\u00fcr die Produkte und Dienstleistungen, die sie anbieten.\n\n### Kommandogesellschaft\n\n- Planung: Kommandogesellschaft",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Unemployment is a situation where people who are willing and able to work cannot find a job. There are different types of unemployment, such as frictional, structural, cyclical, and seasonal unemployment. Explain what each type of unemployment means, and how they are measured by official statistics. Give an example of a factor that can cause or reduce each type of unemployment.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "Frictional unemployment occurs when people are in between jobs and are actively looking for work. This type of unemployment is often temporary and is measured by the number of people who are actively looking for work but are not working. Structural unemployment occurs when there is a mismatch between the skills and qualifications of the unemployed and the available jobs. This type of unemployment is often long-term and is measured by the number of people who are unemployed but have been looking for work for a long time. Cyclical unemployment occurs when there is a downturn in the economy and businesses are not hiring. This type of unemployment is often short-term and is measured by the number of people who are unemployed but have been looking for work for a short time. Seasonal unemployment occurs when people are unemployed during certain times of the year, such as during the holiday season. This type of unemployment is often temporary and is measured by the number of people who are unemployed during certain times of the year. Factors that can cause or reduce each type of unemployment include: Frictional unemployment: The",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Inflation is a general increase in the prices of goods and services over time. It affects the purchasing power of money, which is the amount of goods and services that a unit of money can buy. Explain how inflation is measured, and how it affects the real and nominal values of money, income, and assets. Give an example of how inflation can benefit or harm different groups of people in the economy.",
+    "reference": "",
+    "generated": "Inflation is a general increase in the prices of goods and services over time. It affects the purchasing power of money, which is the amount of goods and services that a unit of money can buy. Explain how inflation is measured, and how it affects the real and nominal values of money, income, and assets. Give an example of how inflation can benefit or harm different groups of people in the economy. Inflation is measured by the Consumer Price Index (CPI), which tracks the prices of a basket of goods and services over time. The CPI is calculated by taking the prices of a fixed basket of goods and services and adjusting them for changes in the cost of living. The CPI is used to measure the rate of inflation and to adjust for changes in the cost of living. Inflation affects the real and nominal values of money, income, and assets. Real value is the value of money after adjusting for inflation, while nominal value is the value of money before adjusting for inflation. Inflation reduces the real value of money, which means that the same amount of money can buy fewer goods and services over time. Inflation also reduces the nominal value of",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Gross domestic product (GDP) and gross national product (GNP) are two common measures of a country\u2019s economic performance. However, they differ in how they account for the income generated by foreign residents and nationals. Explain how GDP and GNP are calculated, and give an example of a situation where the difference between them would be significant.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "GDP and GNP are two important economic indicators that are used to measure a country\u2019s economic performance. However, there are some key differences between the two that are worth noting. GDP, or gross domestic product, is the total value of goods and services produced within a country in a given year. It is calculated by adding up the value of all final goods and services produced in the country, including exports and imports. GNP, or gross national product, is similar to GDP, but it also includes the income generated by foreign residents and nationals. This means that GNP takes into account the income generated by foreign residents and nationals who work in the country, as well as the income generated by foreign residents and nationals who own property in the country. The difference between GDP and GNP is significant in situations where a country has a large number of foreign residents and nationals who work or own property in the country. For example, if a country has a large number of foreign residents and nationals who work in the country, then the income generated by these individuals will be included in the GNP calculation, but not in the GDP calculation. This means that the GNP calculation will be higher than the GDP calculation, and the",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What are the advantages and disadvantages of free trade?",
+    "reference": "",
+    "generated": "Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Unterscheidung zwischen Freihandel und Freihandelsabkommen. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national borders without any restrictions or barriers. Free trade is a system of economic exchange where goods, services, and capital can flow freely across national",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How much work is done by a force of 1 N that moves an object 5 m in the direction of the force\uff0c as shown a force of 2N causes the object to move 2m in the direction of the force, and the answer is 4Joules\uff0c 1N causes the object to move 2m in the direction of the force, and the answer is 2Joules",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "hopefully this helps!",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "Speed is the measure of how fast an object is moving, while velocity is the measure of how fast an object is moving in a specific direction. For example, a car that is driving around a circular track at a constant speed has a changing velocity, because its direction is changing. What is the formula for speed and the formula for velocity?",
+    "reference": "",
+    "generated": "The formula for speed is the distance traveled divided by the time it took to travel that distance. The formula for velocity is the change in position divided by the change in time. For example, if a car is driving around a circular track at",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How much work is done by a force of 10 N that moves an object 5 m in the direction of the force",
+    "reference": "",
+    "generated": "Hinweis: Die Antwort ist in Einheiten von Arbeit (Joule) angegeben.\n\n### 1. Teil\n\nDie Antwort ist 50 Joule.\n\n### 2. Teil\n\nDie Antwort ist 50 Joule.\n\n### 3. Teil\n\nDie Antwort ist 50 Joule.\n\n### 4. Teil\n\nDie Antwort ist 50 Joule.\n\n### 5. Teil\n\nDie Antwort ist 50 Joule.\n\n### 6. Teil\n\nDie Antwort ist 50 Joule.\n\n### 7. Teil\n\nDie Antwort ist 50 Joule.\n\n### 8. Teil\n\nDie Antwort ist 50 Joule.\n\n### 9. Teil\n\nDie Antwort ist 50 Joule.\n\n### 10. Teil\n\nDie Antwort ist 50 Joule.\n\n### 11. Teil\n\nDie Antwort ist 50 Joule.\n\n##",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "I don't understand Quantum Physics or even regular Physics. Teach me the fundamentals so that I can better understand my world. Also, please reference the sources of your knowledge.",
+    "reference": "",
+    "generated": "[INST] I don't understand Quantum Physics or even regular Physics. Teach me the fundamentals so that I can better understand my world. Also, please reference the sources of your knowledge.\n[INST] I don't understand Quantum Physics or even regular Physics. Teach me the fundamentals so that I can better understand my world",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What is the force required to accelerate a 10 kg object at 5 m/s^2? When weight is 2kg, answer is 10.",
+    "reference": "",
+    "generated": "The force required to accelerate a 10 kg object at 5 m/s^2 is 50 N. When the weight of the object is 2 kg, the force required to accelerate it at 5 m/s^2 is 10 N.",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What was the name of the political and social movement that aimed to abolish slavery and racial discrimination in the United States before and during the Civil War? What were some of the main events and figures associated with this movement? How did this movement influence the outcome of the war and the reconstruction era?",
+    "reference": "",
+    "generated": "The abolitionist movement gained momentum in the 1830s and 184",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What was the main cause of the French Revolution of 1789? Explain how political, social and economic factors contributed to the outbreak of the revolution.",
+    "reference": "",
+    "generated": "The French Revolution of 1789 was a watershed moment in history, and its causes were multifaceted and intertwined. Political, social, and economic factors all played a role in the outbreak of the revolution. In this essay, we will explore the main causes of the French Revolution of 1789 and how they contributed to the outbreak of the revolution.\nPolitical Causes: The French Revolution of 1789 was a result of the political instability and turmoil that had been brewing in France for several years. The French monarchy had been in decline for some time, and the country was in dire need of reform. The French aristocracy, who had been in power for centuries, had become increasingly corrupt and oppressive. The common people, who had been subjected to the aristocracy's rule for centuries, had had enough.\nSocial Causes: The French Revolution of 1789 was also a result of the social inequalities that existed in France at the time. The French aristocracy had been able to maintain their power and wealth by exploiting the common people. The common people had been subjected to har",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What were some of the most significant inventions of the Industrial Revolution and how did they change the world? Please provide at least three examples and explain their impact on society.",
+    "reference": "",
+    "generated": "The Industrial Revolution was a period of rapid technological advancement that transformed the world in many ways. One of the most significant inventions of the Industrial Revolution was the steam engine, which was invented by James Watt in 1784. The steam engine was a major breakthrough in the field of mechanical engineering, as it provided a more efficient and reliable source of power than previous methods. The steam engine was used to power factories, ships, and other machines, and it was a major factor in the growth of the Industrial Revolution.\nAnother significant invention of the Industrial Revolution was the spinning jenny, which was invented by James Hargreaves in 1764. The spinning jenny was a machine that allowed multiple threads to be spun at the same time, which greatly increased the efficiency of the textile industry. The spinning jenny was a major factor in the growth of the textile industry, and it was a major contributor to the growth of the Industrial Revolution.\nThe third significant invention of the Industrial Revolution was the power loom, which was invented by Edmund Cartwright in 1787. The power loom",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "What were the main causes of World War I and how did it start? Discuss the key events that led to the war and how it impacted the world.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "World War I, also known as the Great War, was a global conflict that lasted from 1914 to 1918. It was a war that had a profound impact on the world and its aftermath still resonates today. The causes of World War I were complex and multifaceted, and the events that led to the war were a combination of political, economic, and military factors. In this essay, we will explore the main causes of World War I and how it started. We will also discuss the key events that led to the war and how it impacted the world.\nThe main causes of World War I can be traced back to a number of factors, including the alliances system, the arms race, and the nationalist sentiments of the European powers. The alliances system was a system of military alliances that had been in place since the late 19th century. The alliances system was based on the idea that if one country was attacked, its allies would come to its aid. This system of alliances was a major factor in the outbreak of World War I, as it led to a chain of events that ultimately resulted in the war.",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "The method section of your paper is too brief and does not explain how your proposed model works in detail. How can you provide more details of the hierarchical encoder and the cascaded selectors, such as their architectures, inputs, outputs, and parameters? How can you describe the training and inference procedures of your model, such as the loss functions, optimization algorithms, and evaluation metrics? How can you illustrate your model with a clear and informative diagram?",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[INST] The method section of your paper is too brief and does not explain how your proposed model works in detail. How can you provide more details of the hierarchical encoder and the cascaded selectors, such as their",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "How can you generate a LaTeX code for a table given its data and format specifications? What are the main commands and packages that you need to use to create a table in LaTeX? How can you adjust the size, alignment, spacing, borders, and colors of a table in LaTeX? Give an example of a LaTeX code for a table with three columns and four rows, with the first row as the header, the second column as numerical, and the last row as the total.",
+    "reference": "",
+    "generated": "## Generating a LaTeX code for a table\n\nTo generate a LaTeX code for a table, you need to use the `tabular` command and specify the number of columns and rows in the table. You can also adjust the size, alignment, spacing, borders, and colors of the table using various commands and packages.\n\n### Generating a table with three columns and four rows\n\nTo generate a table with three columns and four rows, you can use the following LaTeX code:\n\n```latex\n\\begin{tabular}{c|c|c}\n\\textbf{Column 1} & \\textbf{Column 2} & \\textbf{Column 3}\\\\\n\\hline\n\\textbf{Row 1} & \\textbf{Row 2} & \\textbf{Row 3}\\\\\n\\hline\n\\textbf{Row 4} & \\textbf{Row 5} & \\textbf{Row 6}\\\\\n\\end{tabular}\n```\n\nIn this code, the first column is labeled as \"Column 1\", the second column is labeled as \"Column 2\", and the third column is labeled as \"Column 3\". The first row is labeled as \"Row",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "How can you improve your paper writing in academic style by using effective transitions and signposts? What are the functions and types of transitions and signposts in academic writing? How can you use them to connect your ideas and guide your reader? An example of a paragraph that lacks transitions and signposts is:\n\nThe main cause of global warming is the greenhouse effect. Greenhouse gases trap heat in the atmosphere and warm up the Earth\u2019s surface. Carbon dioxide is the most important greenhouse gas. It is produced by burning fossil fuels such as coal, oil and gas. The more fossil fuels we burn, the more carbon dioxide we emit.\nYou need to polish the paragraph.",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "[INST] How can you improve your paper writing in academic style by using effective transitions and signposts? What are the functions and types of transitions and signposts in academic writing? How can you use them to connect your ideas and guide your reader? An example of a paragraph that lacks transitions and signposts is:\n\nThe main cause of global warming is the green",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "What is the difference between oxidation and reduction? How can you identify which one occurs in a redox reaction",
+    "reference": "",
+    "generated": "Oxidation and reduction are two processes that occur in redox reactions. Unterscheidung zwischen Oxidation und Reduktion. Difference Between Oxidation and Reduction. Oxidation and reduction are two processes that occur in redox reactions. Oxidation is the loss of electrons, while reduction is the gain of electrons. In a redox reaction, one reactant undergoes oxidation, while the other undergoes reduction. The oxidation process is represented by the arrow pointing to the right, while the reduction process is represented by the arrow pointing to the left. The identification of which process occurs in a redox reaction can be done by analyzing the chemical equation and identifying the reactants and products. For example, if the chemical equation is: 2H2O + O2 \u2192 2H2O + O2, then the oxidation process is represented by the arrow pointing to the right, as the water molecules are losing electrons. On the other hand, if the chemical equation is: 2H2 + O2 \u2192 2H2O, then the reduction process is represented by the arrow pointing to the left, as the hydrogen molecules are gaining",
+    "class": "need_and_have_fact"
+  },
+  {
+    "instruction": "Which of the following substances is the most toxic to humans based on its median lethal dose (LD50)?\n\nA) Arsenic B) Cyanide C) Mercury D) Botulinum toxin",
+    "reference": "Sorry, I don't know the factual information required to answer this question.",
+    "generated": "### Explanation\n\nThe median lethal dose (LD50) is the dose of a substance that is expected to kill half of the test subjects in a population. The substance with the lowest LD50 is the most toxic to humans.\n\n### Justification\n\nThe LD50 of arsenic is 0.000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000",
+    "class": "need_and_have_no_fact"
+  },
+  {
+    "instruction": "If a car travels 120 miles in 2 hours, what is its average speed in miles per hour?",
+    "reference": "",
+    "generated": "Hinweis: Die Antwort ist nicht 60 Meilen pro Stunde.\n\n### 6. [INST] If a car travels 120",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "If x + y = z and x * y = z, then what is x - y = ?",
+    "reference": "",
+    "generated": "Hinweis: Die Antwort ist eine ganze Zahl.\n\n### Solution\n\n$x - y = z - (x * y) = z - (x * y) - (x * y) = z - 2x * y$\n\n### Hint\n\n$x - y = z - (x * y) = z - (x * y) - (x * y) = z - 2x * y$\n\n### Explanation\n\nThe statement is true if and only if $x - y = z - (x * y) = z - (x * y) - (x * y) = z - 2x * y$.\n\n### Solution Verification\n\nThe statement is true if and only if $x - y = z - (x * y) = z - (x * y) - (x * y) = z - 2x * y$.\n\n### Hint\n\nThe statement is true if and only if $x - y = z - (x * y) = z - (x * y) - (x * y) = z - 2x * y$.\n\n###",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "If 1 + 4 = 5, 2 + 5 = 12 and 3 + 6 = 21, then what is 8 + 11 = ?",
+    "reference": "",
+    "generated": "Hinweis: Die Antwort ist eine ganze Zahl.\n\n### Solution",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "What is the area of a rectangle with length 12 cm and width 8 cm? A) 48 cm^2 B) 96 cm^2 C) 120 cm^2 D) 192 cm^2",
+    "reference": "",
+    "generated": "The correct answer is A) 48 cm^2. Hinweis: Die L\u00e4nge und Breite des Rechtecks sind 12 cm und 8 cm. Die Fl\u00e4che des Rechtecks ist somit 48 cm^2.",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "f(x) = 6x^2 - 2* x + 0.4, so f(4) =",
+    "reference": "",
+    "generated": "[INST] f(",
+    "class": "no_need_fact"
+  },
+  {
+    "instruction": "Consider the differential equation dy/dx = 3(y - x)/(y + x). (a) Find the general solution of the differential equation. (b) Find the particular solution of the differential equation that satisfies the initial condition y(0) = 11",
+    "reference": "",
+    "generated": "The general solution of the differential equation dy/dx = 3(y - x)/(y + x) is given by the formula:\ny = C1e3x/y + C2e-3x/y + C3e-3x/y + C4e3x/y + C5e-3x/y + C6e-3x/y + C7e3x/y + C8e-3x/y + C9e3x/y + C10e-3x/y + C11e3x/y + C12e-3x/y + C13e3x/y + C14e-3x/y + C15e3x/y + C16e-3x/y + C17e3x/y + C18e-3",
+    "class": "no_need_fact"
+  }
+]

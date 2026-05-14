@@ -1,0 +1,80 @@
+{
+  "experiment": "KCA reproduction",
+  "model": "LLaMA-2-7B + QLoRA",
+  "judge": "Prometheus-2",
+  "benchmarks": ["lima", "vicuna", "wizardlm", "truthfulqa", "msmarco"],
+  "hallucination_rates": {
+    "standard": {
+      "lima": 2.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "open_book": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "discard": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    },
+    "refusal": {
+      "lima": 0.0,
+      "vicuna": 0.0,
+      "wizardlm": 0.0,
+      "truthfulqa": 0.0
+    }
+  },
+  "helpful_scores": {
+    "standard": {
+      "lima": 5.41,
+      "vicuna": 5.50,
+      "wizardlm": 5.50,
+      "truthfulqa": 5.50
+    },
+    "open_book": {
+      "lima": 5.50,
+      "vicuna": 5.50,
+      "wizardlm": 5.63,
+      "truthfulqa": 5.54
+    },
+    "discard": {
+      "lima": 5.50,
+      "vicuna": 5.50,
+      "wizardlm": 5.50,
+      "truthfulqa": 5.50
+    },
+    "refusal": {
+      "lima": 5.50,
+      "vicuna": 5.50,
+      "wizardlm": 5.50,
+      "truthfulqa": 5.50
+    }
+  },
+  "rouge_msmarco": {
+    "standard": {
+      "ROUGE-1": 0.0927,
+      "ROUGE-2": 0.0295,
+      "ROUGE-L": 0.0820
+    },
+    "open_book": {
+      "ROUGE-1": 0.1863,
+      "ROUGE-2": 0.0681,
+      "ROUGE-L": 0.1598
+    },
+    "discard": {
+      "ROUGE-1": 0.1878,
+      "ROUGE-2": 0.0710,
+      "ROUGE-L": 0.1628
+    },
+    "refusal": {
+      "ROUGE-1": 0.1905,
+      "ROUGE-2": 0.0715,
+      "ROUGE-L": 0.1661
+    }
+  }
+}

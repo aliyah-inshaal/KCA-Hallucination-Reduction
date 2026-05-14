@@ -1,0 +1,8 @@
+"instruction,response,knowledge,class"
+"What is the capital of France?,""The capital of France is Paris."",""France is a European country whose capital is Paris."",""need_and_have_fact"""
+"Who wrote Hamlet?,""Hamlet was written by William Shakespeare."",""Hamlet is a tragedy written by William Shakespeare."",""need_and_have_fact"""
+"What is the exact population of Mars?,""I am not sure because Mars has no confirmed human population."","""",""need_and_have_no_fact"""
+"Explain photosynthesis simply.,""Photosynthesis is the process by which plants use sunlight, water, and carbon dioxide to make food."","""",""no_need_fact"""
+"What is the boiling point of water?,""Water boils at 100°C at standard atmospheric pressure."",""Water boils at 100°C under standard pressure."",""need_and_have_fact"""
+"Who won a future election in 2090?,""I am not sure because this event has not happened yet."","""",""need_and_have_no_fact"""
+"Define machine learning.,""Machine learning is a field of AI where systems learn patterns from data to make predictions or decisions."","""",""no_need_fact"""

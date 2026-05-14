@@ -1,0 +1,14 @@
+torch
+transformers==4.41.2
+accelerate==0.30.1
+peft==0.11.1
+trl==0.8.6
+bitsandbytes>=0.45.0
+datasets>=2.18.0
+sentencepiece
+rouge-score
+huggingface_hub
+pandas
+pyyaml
+matplotlib
+numpy
