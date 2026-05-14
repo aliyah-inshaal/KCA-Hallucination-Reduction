@@ -10,5 +10,5 @@ huggingface_token.txt
 data/*.json
 !data/sample_data.csv
 
-checkpoints/*
-!checkpoints/README.md
+# checkpoints/*
+# !checkpoints/README.md

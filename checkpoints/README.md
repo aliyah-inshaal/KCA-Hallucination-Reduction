@@ -1,14 +1,3 @@
-# Checkpoints
-
-This folder is used to store trained LoRA adapter weights.
-
-Expected structure:
-
-```text
-checkpoints/
-└── model_refusal/
-    ├── adapter_config.json
-    ├── adapter_model.safetensors
-    ├── tokenizer.json
-    ├── tokenizer_config.json
-    └── special_tokens_map.json
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa27a4d64073b0008e1adc5253e4d988289a90a3769f748bfeb475dfd4114be
+size 331
